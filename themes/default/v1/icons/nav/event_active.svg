@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<defs>
+		<image width="24" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAAXNSR0IB2cksfwAAAYBQTFRFAAAA/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/9gz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/9cy/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgz/tgzf1tV2gAAAIB0Uk5TAD3z//xvK4drxDeWpEq/NIHKHFddobYGfMWMrwNj3lwzATHvrM/i7q7ncwFb5afRlEClyAJmgH2PaX55FAR4GBJW9ObtqDojEQfgi2opJUjSdro4IAwAUfnxNdz31B0V1iFLBRMPOdsXWthZzrdwktl/nDImk3qVTk9BrZv+xxkRunjcAAABFklEQVR4nGNgAAJGJmYWVgYwYAMy2RlggIOTi5sHwuTl4xcQhDCFhEVExcQlJEXAQEpaRlZORF5BkUFJWUxFFSihpgIGnEAJdRUNTXkGLRVxbR1dPX0DbTAwVDMyFtM2MTVjMLdgYBC3tLK2gRhsa2llZw+0CiKBCUAS3A5YgCNQwskZC3ABSri6YQFaKHa4e6DYAZfw9PLGLuGj7OSLIWHi4OcfEBgkGhwSGoYiEa4ZEclnGxUd4xQbhyIRr5KQCKKTnFiTUe1ICRJLZWBISxewRbfcNz2DgSEzKxnDVdk5srG5eXL2GBL5MQWFRc4RxRgSPoFAf5eUlsAlysqxBXuFGUOlV1UxBoiqDmQQr4lgxgC1dfUAW/tOQRaxgTsAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>
