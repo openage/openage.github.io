@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87" height="86" viewBox="0 0 87 86">
+  <g id="ppt-file" transform="translate(-360 -412)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="87" height="86" transform="translate(360 412)" fill="none"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-108 -3)">
+      <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(475 415)" fill="none" stroke="#bfbfbf" stroke-width="4">
+        <rect width="73" height="86" rx="9" stroke="none"/>
+        <rect x="2" y="2" width="69" height="82" rx="7" fill="none"/>
+      </g>
+      <text id="PPT" transform="translate(487 485)" fill="#bfbfbf" font-size="29" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">PPT</tspan></text>
+    </g>
+  </g>
+</svg>
