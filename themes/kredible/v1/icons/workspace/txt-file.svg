@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="73" height="86" viewBox="0 0 73 86">
-  <g id="txt-file" transform="translate(-943 -341)">
-    <text id="TXT" transform="translate(956 412)" fill="#bfbfbf" font-size="28" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.011em"><tspan x="0" y="0">TXT</tspan></text>
-    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(943 341)" fill="none" stroke="#bfbfbf" stroke-width="4">
-      <rect width="73" height="86" rx="10" stroke="none"/>
-      <rect x="2" y="2" width="69" height="82" rx="8" fill="none"/>
-    </g>
-  </g>
-</svg>
