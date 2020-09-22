@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <g id="download-icon" transform="translate(-234 -1058)">
+    <g id="Group_38" data-name="Group 38" transform="translate(234.292 1058)">
+      <circle id="Ellipse_59" data-name="Ellipse 59" cx="9.5" cy="9.5" r="9.5" transform="translate(-0.292)" fill="#44c6ac"/>
+    </g>
+    <path id="Icon_awesome-arrow-down" data-name="Icon awesome-arrow-down" d="M8.809,6.183l.458.458a.493.493,0,0,1,0,.7L5.256,11.354a.493.493,0,0,1-.7,0L.543,7.341a.493.493,0,0,1,0-.7L1,6.183a.5.5,0,0,1,.708.008l2.37,2.488V2.745a.494.494,0,0,1,.5-.5h.661a.494.494,0,0,1,.5.5V8.679L8.1,6.191A.492.492,0,0,1,8.809,6.183Z" transform="translate(238.572 1060.498)" fill="#fff"/>
+  </g>
+</svg>
