@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <g id="doc-delete" transform="translate(-719 -1118)">
+    <g id="Group_111" data-name="Group 111">
+      <g id="Ellipse_119" data-name="Ellipse 119" transform="translate(719 1118)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.22">
+        <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+        <circle cx="8.5" cy="8.5" r="8" fill="none"/>
+      </g>
+    </g>
+    <path id="Icon_awesome-trash" data-name="Icon awesome-trash" d="M8.227.609H5.941L5.762.253A.457.457,0,0,0,5.353,0H3.176a.452.452,0,0,0-.408.253L2.59.609H.3a.3.3,0,0,0-.3.3v.609a.3.3,0,0,0,.3.3H8.227a.3.3,0,0,0,.3-.3V.914A.3.3,0,0,0,8.227.609ZM1.013,8.893a.914.914,0,0,0,.912.857H6.606a.914.914,0,0,0,.912-.857l.4-6.456H.609Z" transform="translate(723 1122)" opacity="0.3"/>
+  </g>
+</svg>

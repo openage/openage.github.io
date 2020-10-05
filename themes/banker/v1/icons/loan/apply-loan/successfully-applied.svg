@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="139" height="118" viewBox="0 0 139 118">
+  <g id="successfully-applied" transform="translate(-544 -11)">
+    <rect id="Rectangle_458" data-name="Rectangle 458" width="139" height="118" rx="35" transform="translate(544 11)" fill="#4a69bd" opacity="0.1"/>
+    <g id="Ellipse_124" data-name="Ellipse 124" transform="translate(569 26)" fill="none" stroke="#4a69bd" stroke-width="3">
+      <circle cx="44" cy="44" r="44" stroke="none"/>
+      <circle cx="44" cy="44" r="42.5" fill="none"/>
+    </g>
+    <path id="Icon_feather-check" data-name="Icon feather-check" d="M48.455,9,19.267,38.188,6,24.921" transform="translate(585.5 46.75)" fill="none" stroke="#4a69bd" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

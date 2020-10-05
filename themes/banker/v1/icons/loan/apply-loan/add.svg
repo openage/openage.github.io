@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="add" transform="translate(-1224 -2449)">
+    <g id="Rectangle_878" data-name="Rectangle 878" transform="translate(1224 2449)" fill="#fff" stroke="#4a69bd" stroke-width="2">
+      <rect width="24" height="24" rx="12" stroke="none"/>
+      <rect x="1" y="1" width="22" height="22" rx="11" fill="none"/>
+    </g>
+    <text id="_" data-name="+" transform="translate(1232 2467)" fill="#4a69bd" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">+</tspan></text>
+  </g>
+</svg>
