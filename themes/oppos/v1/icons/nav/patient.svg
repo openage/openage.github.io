@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve">  <image id="image0" width="30" height="30" x="0" y="0"
-    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAQAAACROWYpAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
-AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElN
-RQfkBgUOJgQ3spyRAAAB4UlEQVQ4y8XU2U9TURDA4e92Y5HFtiIWiCTKiwqWB+O7/vUuhMQYDUZc
-EAqEQIOFltLSXh+stwu9JcYHz9OZOfM7s5wzwz+sYORpxqwJLWfOhH8HT1s3oSYlY8+W9qBBMhYd
-88KVN7btaFjTcjJokoqFl6VsOEdoV8pjJdV+k0QMmpT3w3kkl7TNDBrFwYGEeo98pXXdNg5uqViS
-juScTE8cNxasaUWoooVZq37aGXyuYU+VNCcraV7esRMZd0366kLVgcYoeNZTc05dCoWYcUfZqVDa
-lLa3ynFwTlHDJ+XOl8h5rm5TBYExK257rTmsYGOKqjYdd9ApRZc2VECobk+m+zd64cCqCR9cRJpH
-xr3qq3Io6EbbC+ctex/9osCKee+iqwruDSaa6NktObUfyVlFXxxG8n0FCYZ7TsspaUX6h2q2ezop
-uP4yvZ5TUpHBpLyE7Oh+78JNRx5Y6GjGpdSty/UVNIiDr2zZ98yaW2g6seHSwijfvf1ct+nIqmUH
-DnzU0B4ddv8wCO0qW7ToiVBLU2nY7BoOQ9U3Wd+dCdTU+nK+ESYw59DxEH1stUdUte8s7CYyfAAm
-FKSjS347yKrJKQhGw21l06YGogjlvJT0+U9Dxg/9Yfpxk9qdwfSf1y+GtIpEJErQeAAAACV0RVh0
-ZGF0ZTpjcmVhdGUAMjAyMC0wNi0wNVQxNDozODowNCswMzowMNpglh8AAAAldEVYdGRhdGU6bW9k
-aWZ5ADIwMjAtMDYtMDVUMTQ6Mzg6MDQrMDM6MDCrPS6jAAAAAElFTkSuQmCC" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" width="25" height="25">
+	<defs>
+		<image width="30" height="30" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAQAAACROWYpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfkBgUOJgQ3spyRAAAB4UlEQVQ4y8XU2U9TURDA4e92Y5HFtiIWiCTKiwqWB+O7/vUuhMQYDUZcEAqEQIOFltLSXh+stwu9JcYHz9OZOfM7s5wzwz+sYORpxqwJLWfOhH8HT1s3oSYlY8+W9qBBMhYd88KVN7btaFjTcjJokoqFl6VsOEdoV8pjJdV+k0QMmpT3w3kkl7TNDBrFwYGEeo98pXXdNg5uqViSjuScTE8cNxasaUWoooVZq37aGXyuYU+VNCcraV7esRMZd0366kLVgcYoeNZTc05dCoWYcUfZqVDalLa3ynFwTlHDJ+XOl8h5rm5TBYExK257rTmsYGOKqjYdd9ApRZc2VECobk+m+zd64cCqCR9cRJpHxr3qq3Io6EbbC+ctex/9osCKee+iqwruDSaa6NktObUfyVlFXxxG8n0FCYZ7TsspaUX6h2q2ezopuP4yvZ5TUpHBpLyE7Oh+78JNRx5Y6GjGpdSty/UVNIiDr2zZ98yaW2g6seHSwijfvf1ct+nIqmUHDnzU0B4ddv8wCO0qW7ToiVBLU2nY7BoOQ9U3Wd+dCdTU+nK+ESYw59DxEH1stUdUte8s7CYyfAAmFKSjS347yKrJKQhGw21l06YGogjlvJT0+U9Dxg/9Yfpxk9qdwfSf1y+GtIpEJErQeAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wNi0wNVQxNDozODowNCswMzowMNpglh8AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDYtMDVUMTQ6Mzg6MDQrMDM6MDCrPS6jAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="image0" href="#img1" transform="matrix(0.833,0,0,0.833,0,0)"/>
 </svg>
