@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87 86" width="87" height="86">
+	<defs>
+		<image width="75" height="86" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEsAAABWCAMAAACw2JudAAAAAXNSR0IB2cksfwAAAKJQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoBElOgAAADZ0Uk5TAAYsPT9ALgcBGDg5Gj4bCjo1IBINER80OysqNhAyAzAeGRciJy0CFjEvEzcEKAwzHQsPHDwO8NbIXwAAAPtJREFUeJzt2clywjAQBNBRMCADYd+XQBZ2MBDC//8aLcvOEao0HLsvGlfZrzTXtoiLeStExdBEhVJZ8ti4Egz5VGs2s+J3JYW71T3VaOKh1e50w9LrD/D9sJtu2MI4MhIeM4YwcVtOMcw+FBSuM4fRwbDA+amiRL5gfOP8wVl++vbjGBhjK9Ytq6REYCxXYke0aNGiRYsWLVq0aNGiRYsWLVq0aNGilVkv7B7TTlTT+rpknWja1cZKa130XW0P50bZIW9h7Nywdxc8KKjDEUIlbfCTIcbTeZpcQpL8Xmf4/u/m3Vr4/4k80TVft15VUs2z/d/YlFTUxvfsd5PGRQanCucGAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 29px;fill: #bfbfbf;font-weight: 500;font-family: "RoundedMplus1c-Medium", "Rounded Mplus 1c" } 
+	</style>
+	<use id="Background" href="#img1" x="6" y="0" />
+	<text id="URL " style="transform: matrix(1,0,0,1,16,71)" >
+		<tspan x="0" y="0" class="txt0">URL</tspan>
+	</text>
+</svg>
