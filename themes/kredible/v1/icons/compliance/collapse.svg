@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 11" width="16" height="11">
+	<defs>
+		<image width="8" height="8" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAABHNCSVQICAgIfAhkiAAAAGZJREFUGFeFzzEKg0AQBdBn4RECaSSk8IJeQHIBGy9oIVjkCDbhLwqLKfzdzH8Mu42bNOixYL/YFq+AGSumCqUc0AU8MR5XgpKUb3wCkhplLiW2E9Qou1JmWYPMj+Pi93zwFfx9+gdFWQ7aZtf6fQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #c9c9c9 } 
+	</style>
+	<path id="Shape 2" class="shp0" d="M2 0L14 0C15.11 0 16 0.89 16 2L16 9C16 10.11 15.11 11 14 11L2 11C0.89 11 0 10.11 0 9L0 2C0 0.89 0.89 0 2 0Z" />
+	<use id="next" href="#img1" transform="matrix(1,0,0,1,4,2)"/>
+</svg>
