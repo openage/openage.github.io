@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<title>business</title>
+	<defs>
+		<image  width="40" height="37" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAlCAMAAAAHvluBAAAAAXNSR0IB2cksfwAAAEtQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////slWHAAAAABl0Uk5TAAiP5//mjo01Nxyr8q0l7Rup8PEm7CTJx/YYkRsAAAB1SURBVHic7dRJCoAwEETRUssxauLs/U/qEBRETHor5K8a8qDJpoFHUZzwLM0iuIp5lzthwsIOJVMnJN/TVaVqeqqbdnfax460gZI4soN3r62HzO1fCzDAAH8DB5nr0cigwjhJnJ4B03m3D2q2J3Ih16/Ter1tSJYWKHgxuVIAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="4" y="7" />
+</svg>
