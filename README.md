@@ -27,7 +27,7 @@
 
 1. Inventory
 1. Appointment
-1. Survery
+1. Survey
 1. Transport
 1. Attendance
 1. Compensation
