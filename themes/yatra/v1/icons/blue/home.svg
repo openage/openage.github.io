@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon-feather-home" transform="translate(1.000000, 1.000000)" stroke="#2365EA" stroke-width="1.5">
+            <path d="M0,5.32851968 L6.85444072,0 L13.7088814,5.32851968 C13.7088814,10.9107755 13.7088814,13.7019035 13.7088814,13.7019035 C13.7088814,14.5427172 13.0269205,15.2243405 12.1856779,15.2243405 C12.1856779,15.2243405 1.52321349,15.2243405 1.52321349,15.2243405 C0.681970947,15.2243405 0,14.5427272 0,13.7019035 C0,13.7019035 0,10.9107755 0,5.32851968 Z" id="Path-10"></path>
+            <polyline id="Path-11" points="4.56630075 15.2243224 4.56630075 7.61715698 9.1326015 7.61715698 9.1326015 15.2243224"></polyline>
+        </g>
+    </g>
+</svg>
