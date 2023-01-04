@@ -1,4 +1,3 @@
-[link to api](http://dev.openage.in/insight)
 
 You will find data about Activities in this api  
 

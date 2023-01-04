@@ -18,13 +18,13 @@ permalink: /docs/directory/departments
 
  **Create department**  
 
-[Try it out](http://ems-api-dev.m-sas.com/#!#departments)
+[Try it out](https://api.application.com/directory/#!#departments)
 
 
 **search an department**  
 > Search  
   
-<h3><a href="http://ems-api-dev.m-sas.com/#!#dependents">Dependents</a></h3>
+<h3><a href="https://api.application.com/directory/#!#dependents">Dependents</a></h3>
 
 **Create dependents**
 

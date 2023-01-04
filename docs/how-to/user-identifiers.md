@@ -4,7 +4,9 @@ Following identifiers are unique across the sub-systems
 
 - Email
 - Mobile
-- Code
+- User Code
+- User Id
+- Employee Code (with organization code)
 - Role Id
 - Role Code
 

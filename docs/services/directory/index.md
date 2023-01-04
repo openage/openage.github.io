@@ -1,8 +1,8 @@
-[link to api](http://ems-api-dev.m-sas.com)
+[link to api](https://api.application.com/directory)
 
 You will find data about Employees/Users in this api  
 
-# Directory Api 
+# Directory Api
 It is the Authentication and Authorization service.
 
 User, once he logs in, gets one or more roles - Each role has 

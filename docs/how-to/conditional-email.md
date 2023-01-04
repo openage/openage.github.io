@@ -32,7 +32,7 @@ This report would have the following columns
 6. Supervisor Last Name `supervisor-profile-lastName`
 7. Supervisor Email `supervisor-email`
 
-Checkout [how to create](insight-report.md) a report for more details.
+Checkout [how to create](/how-to/insight-report.md) a report for more details.
 
 ![[fix-me.jpg]]
 TODO: insert image - console>data>report-types
@@ -103,7 +103,7 @@ Email: {{context.user.email}}
 ![[fix-me.jpg]]
 TODO: insert image - console>templates>emails
 
-Checkout [how to create](templated-message.md) a template message for more details.
+Checkout [how to create](/how-to/templated-message.md) a template message for more details.
 
 ### Finally create a job to run the report and send the email
 

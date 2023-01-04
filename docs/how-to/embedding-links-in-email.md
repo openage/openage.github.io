@@ -8,4 +8,4 @@ using a aka handlebar helper
 `{{aka user-profile role-code}}`
 
 
-Checkout [how to create](aka-url.md) an aka url for more details.
+Checkout [how to create](/how-to/alias-urls.md) an aka url for more details.

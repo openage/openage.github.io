@@ -47,7 +47,7 @@ The definition would like this
 }
 ```
 
-Checkout [field details](../../how-to/field-attribtutes.md) for more details.
+Checkout [field details](/how-to/field-attribtutes.md) for more details.
 
 
 The definition achives follwoing purposes
@@ -131,7 +131,7 @@ Add the action fileds
     }]
 }
 ```
-NOTE: there are several system defined icons mapped to the code. Checkout the [pre-defined icons](./pre-defined-icons.md).
+NOTE: there are several system defined icons mapped to the code. Checkout the [pre-defined icons](/lib/web/pre-defined-icons.md).
 
 Add the action handler in the component
 
@@ -248,7 +248,7 @@ Pass the cell template to the `oa-template`
 
 In order to format a value, you need to specify `format` as part of field definition. To use the format, `oa-table` additionaly needs `type` to use the formatter.
 
-Checkout the [pre-defined value formatters](./pre-defined-value-formatters.md.md).
+Checkout the [pre-defined value formatters](/lib/web/pre-defined-value-formatters.md.md).
 
 ## Extensions
 

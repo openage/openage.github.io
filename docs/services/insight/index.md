@@ -369,5 +369,3 @@ type :-
 <insight-table-widget [reportType]="reportType">
 </insight-table-widget>
 ```
-
-[link to api](http://dev.openage.in/insight)

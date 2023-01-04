@@ -9,7 +9,7 @@ The system identifies a user based on the following logic
 If only `tenant-code` is passed - the user is treated as a guest of the application.
 If both `tenant-code` && `organization-code` are passed - the user is treated as a guest of an organization within application.
 
-These user creedntisl are of 2 types:
+These user credentials are of 2 types:
 
 1. Token: It is auto expiring encrypted JWT token that is associated with the current user session. They have the purpose and expiry period buit into them. A token has following attributes
 
@@ -99,6 +99,6 @@ HTTP ACTION `{{api-root-url}}/resources?tenant-code=my-application`
 ### Hidden credentials
 You can create an `aka` url. These urls save the session token in db and collects the data from the API and renders them as a standalone page
 
-Checkout [how to create](aka-url.md) an aka url for more details.
+Checkout [how to create](/how-to/alias-urls.md) an aka url for more details.
 
 
