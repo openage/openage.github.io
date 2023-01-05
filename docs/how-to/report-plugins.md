@@ -1,12 +1,5 @@
+# Report Plugins
+#report #plugins #ui #download #schedule #message
 
-- email
-- schedule
-	- message
-	- push google sheet 
-	- push to api (uses connect)
-
-## Email
-
-creates an
 
 [[simple-report]]
