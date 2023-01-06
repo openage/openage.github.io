@@ -27,30 +27,29 @@ Here is the sample `session` object returned by the system:
 ```JSON
 {
 	"id": "605c47eec0b3c67843e85466",
-	"token": "1lIMjth4Gnv1KlbDtB7LsLY7xyoh3-rhJOcLhbxFARSY",
 	"purpose": "login",
     "app": "chrome",
     "expiry": "2021-03-25T08:21:02.104Z",
+	"status": "active",
+	"token": "1lIMjth4Gnv1KlbDtB7LsLY7xyoh3-rhJOcLhbxFARSY",
+	"role": {
+		"id": "605c47eec0b3c67843e85467",
+		"key": "57605ffa-0ec4-a911-70c7-1edba4b70272",
+		"code": "xxxxxxx",
+		"permissions": ["organization.admin"],
+		"type": {
+			"id": "5fd4c92cb9ba1d02b98f8e2d",
+			"code": "organization.admin",
+			"name": "Organization Admin"
+		},
+		"employee": {},
+		"organization": {},
+		"status": "active"
+	},
 	"user": {
 		"email": "user@organization.com",
-		"profile": {
-		},
-		"role": {
-			"id": "605c47eec0b3c67843e85467",
-			"key": "57605ffa-0ec4-a911-70c7-1edba4b70272",
-			"code": "xxxxxxx",
-			"permissions": ["organization.admin"],
-			"type": {
-				"id": "5fd4c92cb9ba1d02b98f8e2d",
-				"code": "organization.admin",
-				"name": "Organization Admin"
-			},
-			"employee": {},
-			"organization": {},
-			"status": "active"
-		}
-	},
-	"status": "active"
+		"profile": {}		
+	}
 }
 ```
 
