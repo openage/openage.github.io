@@ -4,7 +4,7 @@
 In case an API exists that can authenticate a user using its user id and password. To use that API, we need to do following.
 
 1. Make the directory aware of the new auth mechanism
-2. Configure your payload to get the session using the [login](/services/directory/session-login.md) mechanism
+2. Configure your payload to get the session using the [login](session-login.md) mechanism
 
 ## Configuring the Custom API
 

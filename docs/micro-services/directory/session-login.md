@@ -57,10 +57,10 @@ Here is the sample `session` object returned by the system:
 
 The login behaviour can be modified using differnet plugins. For details checkout follwoing  plugins
 
-1. [Password Login](/services/directory/auth-plugins/directory-password-auth.md)
-2. [Custom Password Provider](/services/directory/auth-plugins/custom-password-auth.md)
-3. [Active Directory Auth](/services/directory/auth-plugins/ad-auth.md)
-4. [Google OAuth](/services/directory/auth-plugins/google-auth.md)
-5. [QR Code Auth](/services/directory/auth-plugins/qr-code-auth.md)
-6. [OTP Auth](/services/directory/auth-plugins/otp-auth.md)
+1. [Password Login](directory-password-auth.md)
+2. [Custom Password Provider](custom-password-auth.md)
+3. [Active Directory Auth](ad-auth.md)
+4. [Google OAuth](google-auth.md)
+5. [QR Code Auth](qr-code-auth.md)
+6. [OTP Auth](otp-auth.md)
 

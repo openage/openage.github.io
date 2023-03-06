@@ -1,4 +1,4 @@
-# page divs
+# page DIVS
 
 ``` html
   <app-page-divs [divs]="page?.meta?.divs" [areaCode]="'stat-area-code'" (selected)="onStatSelect($event)">

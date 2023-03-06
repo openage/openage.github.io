@@ -17,7 +17,7 @@ The sudo permissions helps pin a resource to a user group or a specific user.
 
 ## Checking on the Angular App
 
-When the user [logs in](/services/directory/session-login.md) the session is saved on the browser side session. One of the fieds in the session is `user.role.permissions` which is a list of permissions available with the current user.
+When the user [logs in](session-login.md) the session is saved on the browser side session. One of the fieds in the session is `user.role.permissions` which is a list of permissions available with the current user.
 
 [Role Service](/lib/web/auth/role-service.md) encapsulate authentication and authroization. It has a method called `hasPermission()` which takes the list of permissions and returns `true` if the current user's has it. 
 - To check if the user has permission `document.create` you can call `hasPermission('document.create')` or you can call `hasPermission(['document.create'])`
@@ -80,6 +80,6 @@ public class OaAuthorizeAttribute : AuthorizeAttribute
 }
 ```
 
-Checkout  how to get [current session](/services/directory/current-session.md) on how to get the claims 
+Checkout  how to get [current session](current-session.md) on how to get the claims 
 
 The claims are added to the current session so would be available in the deeper code also.

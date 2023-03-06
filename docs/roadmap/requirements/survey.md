@@ -1,0 +1,3 @@
+---
+banner: "![[survey.png]]"
+---

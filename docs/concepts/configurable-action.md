@@ -1,3 +1,5 @@
+# Configurable Action
+
 Attribute of an action
 - Code
 - Handler
@@ -14,7 +16,7 @@ Attribute of an action
 
 ## UI Actions
 
-UI actions are rendedered using `oa-action`. Here are sample actions
+UI actions are rendered using `oa-action`. Here are sample actions
 
 ### Navigate action
 
@@ -39,6 +41,34 @@ UI actions are rendedered using `oa-action`. Here are sample actions
 	"handler": "reload",
 	"view": "button", // (was type)
 	"title": "Reload",
+	"config": {	
+	}
+}
+```
+
+
+### Phone Verification action
+
+```JSON
+{
+	"code": "abc",
+	"handler": "login",
+	"view": "button", // (was type)
+	"title": "Login",
+	"config": {	
+	}
+}
+```
+
+
+### Login action
+
+```JSON
+{
+	"code": "abc",
+	"handler": "login",
+	"view": "button", // (was type)
+	"title": "Login",
 	"config": {	
 	}
 }

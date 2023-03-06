@@ -12,7 +12,7 @@ It generates a table of data from the list of items. It uses table `definitions`
     [items]="data">
 </oa-table>
 ```
-For follwoing data 
+For following data 
 ```JSON
 [{
     "code": "tech",
