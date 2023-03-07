@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>icons</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+        <g id="order-HBL" transform="translate(2.000000, 0.000000)">
+            <g id="bill-svgrepo-com-(1)">
+                <path d="M83,10 L83,95 L71.35,90 L59.7,95 L48,90 L36.35,95 L24.7,90 L13,95 L13,10 C13,7.23857625 15.2385763,5 18,5 L78,5 C80.7614237,5 83,7.23857625 83,10 Z" id="secondary" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M74.2857143,12 L5.71428571,12 C2.55837286,12 0,14.2385763 0,17 L0,98 L13.3714286,93 L26.6857143,98 L40,93 L53.3142857,98 L66.6285714,93 L80,98 L80,17 C80,14.2385763 77.4416271,12 74.2857143,12 Z" id="primary" stroke="#EA3221" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" fill="#EA3221" cx="80" cy="18" r="18"></circle>
+                <line x1="65" y1="53" x2="15" y2="53" id="primary-path" stroke="#EA3221" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="48" y1="33" x2="15" y2="33" id="primary-path" stroke="#EA3221" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="65" y1="73" x2="15" y2="73" id="primary-path" stroke="#EA3221" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+            <g id="ramp-right-svgrepo-com" transform="translate(94.500000, 48.000000) scale(-1, -1) translate(-94.500000, -48.000000) translate(65.000000, 6.000000)">
+                <path d="M42.6478801,73.7109897 C40.2878628,76.2371209 38.9782881,79.556188 38.9822498,83.0013899 L38.9822498,83.3000016 L37.2398945,83.3000016 L37.2398945,83.0013899 C37.236214,79.1203138 38.711238,75.3814026 41.3690908,72.5349896 L49.8188564,63.469413 L44.2089089,63.469413 L44.2089089,61.7400012 L52.9199017,61.7400012 L52.9199017,70.3870602 L51.1777877,70.3870602 L51.1777877,64.5589424 L42.6478801,73.7109897 Z" id="Shape" stroke="#FFFFFF" stroke-width="0.980000019" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <polygon id="Path" points="0 0 58.7999976 0 58.7999976 58.7999976 0 58.7999976"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

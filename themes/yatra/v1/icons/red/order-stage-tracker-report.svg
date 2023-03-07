@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>order-stage-tracker-report</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons">
+            <g id="order-stage-tracker-report">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+                <polygon id="Path" fill="#EA3221" fill-rule="nonzero" points="0 -8.67361738e-17 0 100 37.2324136 100 37.2324136 95.6609706 4.27889635 95.6609706 4.27889635 4.33902939 95.7324136 4.33902939 95.7324136 50 100 50 100 -8.67361738e-17"></polygon>
+                <path d="M16,16 L84,16 L84,21 L16,21 L16,16 Z M16,30 L74,30 L74,35 L16,35 L16,30 Z M16,44 L64,44 L64,49 L16,49 L16,44 Z M16,58 L54,58 L54,63 L16,63 L16,58 Z" id="Shape" fill="#EA3221" fill-rule="nonzero"></path>
+                <g id="gps-svgrepo-com-(1)" stroke-linecap="round" stroke-linejoin="round" transform="translate(59.000000, 59.000000)" stroke="#EA3221" stroke-width="3">
+                    <path d="M19.5,35 C28.06034,35 35,28.06034 35,19.5 C35,10.9395773 28.06034,4 19.5,4 C10.9395773,4 4,10.9395773 4,19.5 C4,28.06034 10.9395773,35 19.5,35 Z" id="Path"></path>
+                    <path d="M19.5,26 C23.08995,26 26,23.08995 26,19.5 C26,15.91005 23.08995,13 19.5,13 C15.91005,13 13,15.91005 13,19.5 C13,23.08995 15.91005,26 19.5,26 Z" id="Path"></path>
+                    <line x1="20" y1="36" x2="20" y2="39" id="Path"></line>
+                    <line x1="20" y1="3" x2="20" y2="5.68434189e-14" id="Path"></line>
+                    <line x1="3" y1="20" x2="0" y2="20" id="Path"></line>
+                    <line x1="36" y1="20" x2="39" y2="20" id="Path"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
