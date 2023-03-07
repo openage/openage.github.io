@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>gp-report</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons">
+            <g id="gp-report">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+                <path d="M89.2795139,100 L17.0138889,100 C16.762934,100 16.2737847,100 16.2737847,100 C16.2737847,100 15.3550347,100 14.8871528,100 C6.67795139,100 0,97.4604287 0,89.2075467 L0,54.6410389 L25.4340278,54.6410389 L25.4340278,0 L100,0 L100,89.2075467 C100,97.4604287 97.4887153,100 89.2795139,100 Z M28.3366319,95.6217037 L89.2795139,95.6217037 C92.7971354,95.6217037 95.6597222,92.7438853 95.6597222,89.2075467 L95.6597222,4.37829627 L29.7743056,4.37829627 L29.7743056,89.2075467 C29.7743056,91.5038149 29.2553819,93.6760761 28.3366319,95.6217037 Z M4.34027812,59.0193351 L4.34027812,89.2075467 C4.34027812,92.7438853 8.83862882,95.6217037 14.3663198,95.6217037 C19.8940108,95.6217037 25.4340281,92.7438853 25.4340281,89.2075467 L25.4340281,59.0193351 L4.34027812,59.0193351 Z" id="Shape" fill="#EA3221" fill-rule="nonzero"></path>
+                <g id="Group" stroke-linecap="round" transform="translate(41.000000, 18.000000)" stroke="#EA3221" stroke-width="4.71999979">
+                    <path d="M43.9813871,0.0403192871 L42.007569,2.30591919 C31.0657513,14.8086742 16.3908429,23.6612541 0.0423941799,27.6470317" id="Path"></path>
+                    <polyline id="Path" stroke-linejoin="round" points="31.4111695 0.0403192871 43.9835326 0.0403192871 43.9835326 12.291341"></polyline>
+                </g>
+                <line x1="84.5" y1="83" x2="84.5" y2="46" id="Path" stroke="#EA3221" stroke-width="4.71999979" stroke-linecap="round"></line>
+                <line x1="42.5" y1="83" x2="42.5" y2="68" id="Path" stroke="#EA3221" stroke-width="4.71999979" stroke-linecap="round"></line>
+                <line x1="54.5" y1="82" x2="54.5" y2="59" id="Path" stroke="#EA3221" stroke-width="4.71999979" stroke-linecap="round"></line>
+                <line x1="68.5" y1="82" x2="68.5" y2="53" id="Path" stroke="#EA3221" stroke-width="4.71999979" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>
