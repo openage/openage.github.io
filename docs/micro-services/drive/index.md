@@ -136,7 +136,7 @@ class DriveFileViewerBaseComponent {
 
 ### Shows files/folders as list
 
-<img src="http://docs-api-dev.m-sas.com/files/image-bd65a480-6bf7-11e9-82f6-1169aa3bf751.png"/>
+<img src="{{api-root-url}}/files/image-bd65a480-6bf7-11e9-82f6-1169aa3bf751.png"/>
 
 ```html
 <drive-files-list></drive-file-list>
@@ -163,7 +163,7 @@ class DriveFileViewerBaseComponent {
 ### Shows files/folders as carousel
 
 - hides folders
-<img src="http://docs-api-dev.m-sas.com/files/image-814895b0-6bf8-11e9-82f6-1169aa3bf751.png"/>
+<img src="{{api-root-url}}/files/image-814895b0-6bf8-11e9-82f6-1169aa3bf751.png"/>
 
 ```html
 <drive-file-carousel 
@@ -209,9 +209,9 @@ const options = {
 - droppable zone
 - upload progress
 
-<img src="http://docs-api-dev.m-sas.com/files/image-105b4870-6bf8-11e9-82f6-1169aa3bf751.png">
+<img src="{{api-root-url}}/files/image-105b4870-6bf8-11e9-82f6-1169aa3bf751.png">
 
-<img src="http://docs-api-dev.m-sas.com/files/image-1a55f360-6bf9-11e9-82f6-1169aa3bf751.png">
+<img src="{{api-root-url}}/files/image-1a55f360-6bf9-11e9-82f6-1169aa3bf751.png">
 
 ```html
 <drive-file-uploader-zone

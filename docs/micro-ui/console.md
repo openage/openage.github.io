@@ -23,7 +23,7 @@ Status: Collect Requirement
 	- Messages(Send It)
 	- Database (Insight)
 	- API (Connect)
-	- Auth(Directory)
+	- Auth (Directory)
 	- Storage(Drive)
 - Data
 	- Lookups
@@ -40,9 +40,12 @@ Status: Collect Requirement
 	- Services (Tenant Level)
 		- Directory
 		- Send It
-		- 
 - Accounts
 	- Organisations
 	- Billing
 - Page 
 	- List of pages
+
+
+## Epics
+

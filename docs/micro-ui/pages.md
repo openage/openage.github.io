@@ -76,19 +76,18 @@ https://yofs.invisionapp.com/console/share/M434WVN9P6/814696366
 ## Epics
 
 **accounts micro ui**
-www.yatrafreight.com/accounts
+www.domain.com/accounts
 
 **pages micro ui**
-www.yatrafreight.com
-**www.yatrafreight.com/customers**
+www.domain.com
+**www.domain.com/customers**
 
-
-www.yatrafreight.com/backoffice
+www.domain.com/backoffice
 
 - [ ] Ability to change the layout and theme of the page
-	- [ ] separate the customer portal as www.yatrafreight.com/customers (with customers as base url)
+	- [ ] separate the customer portal as www.domain.com/customers (with customers as base url)
 		- [ ] make the urls dynamic (level 1, level 2 ...)
-		- [ ] set page as internal() and external (root level - www.yatrafreight.com/customers )
+		- [ ] set page as internal() and external (root level - www.domain.com/customers )
 	- [ ] ability to select a theme for the portal
 		- [ ] set the master page for whole app based on the theme
 	- [ ] ability to modify the layout of the pages

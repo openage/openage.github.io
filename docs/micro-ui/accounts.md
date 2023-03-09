@@ -61,10 +61,11 @@ Examples
 -   Signup Forms
 
 ### Communication 
--   Complete Signup
+-   Complete Signup ![[mails-otp.png]]
 -   Signup Completed
 -   Failed Login Attempt
 -   Successful Login ![[mails-login.png]]
+-   New Joiner to supervisor ![[mail-new-joinee.png]]
 
 ## Reports
 

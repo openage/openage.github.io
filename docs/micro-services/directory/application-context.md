@@ -44,7 +44,7 @@ In addition, you can get the tenant by specifying it at **header** ( as `x-tenan
 
 If you specify organization at **header** ( as `x-organization-code`) or in **query string** ( as `organization-code`). The API would override the sections of the object with **the organization specific** values
 
-For example `{{api-root-url}}/directory/api/tenants/my?tenant-code=aqua&organization-code:msas` would give you the context which is organization specific
+For example `{{api-root-url}}/directory/api/tenants/my?tenant-code=aqua&organization-code:company` would give you the context which is organization specific
 
 
 ## Organization

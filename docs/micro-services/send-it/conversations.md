@@ -24,7 +24,7 @@ The conversation has a list of `participants`. When a message is added to it, th
 - in case there are mentions or to in the messages, a notification is sent to that user. It would take the mentions and convert them to `a` tags with `role-id`. The supported mentions are
   - everyone  `@everyone`
   - by user code `@1004`
-  - by role id `@5eae92f22e77d50ac2770017` or `<a href="@r5eae92f22e77d50ac2770017">Sunny Parkash</a>`
+  - by role id `@5eae92f22e77d50ac2770017` or `<a href="@r5eae92f22e77d50ac2770017">Sharukh Khan</a>`
 
 You can have a `direct` conversation between 2 users, or create a `group` conversation with a custom name and pic. You can even have `entity` level conversations
 

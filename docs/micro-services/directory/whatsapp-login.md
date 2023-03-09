@@ -6,7 +6,7 @@ Login with whatsapp validated Number
 ### Step 1: 
 
 Send following request to
-**Url**: `{{api-root-url}}/https://qa.yatrafreight.com/directory/api/users/auth/whatsapp/success`
+**Url**: `{{api-root-url}}/directory/api/users/auth/whatsapp/success`
 **Type**: POST
 **params**:
 
@@ -51,9 +51,9 @@ The directory will
 
 #### Errors
 
-Code                   | Message
---------               |----------
-TOKEN_INVALID          | Confidential string invalid
-TOKEN_IS_REQUIRED      | Token is required
-MOBILE_NUMBER_REQUIRED | Mobile number Required
-USER_DOES_NOT_EXIST    | User does not exist
+| Code                   | Message                     |
+| ---------------------- | --------------------------- |
+| TOKEN_INVALID          | Confidential string invalid |
+| TOKEN_IS_REQUIRED      | Token is required           |
+| MOBILE_NUMBER_REQUIRED | Mobile number Required      |
+| USER_DOES_NOT_EXIST    | User does not exist         |

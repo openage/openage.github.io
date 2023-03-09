@@ -10,8 +10,8 @@ A permission is a token which gets access to a resource. It is a typically defin
 
   These permissions are granted to the user based on his `role-type` or can be directly set on the user's role.  There are also some sudo permissions 
 - `role:{{role-type-code}}` 
-- `email:user@example.com`
-- `email:user@example.com`
+- `email:user@domain.com`
+- `email:user@domain.com`
 
 The sudo permissions helps pin a resource to a user group or a specific user.
 

@@ -12,7 +12,7 @@
 
 - Employee
 
-### Yatra
+### Application
 
 - Sales Agent
 - Pricing Agent

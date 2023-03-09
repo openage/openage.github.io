@@ -27,8 +27,8 @@ PUT `{{api-root-url}}/directory/api/users/my`
 ```json
 {
     "profile": {
-        "firstName": "Sunny",
-        "lastName": "Parkash",
+        "firstName": "Sharukh",
+        "lastName": "Khan",
         "gender": "male",
         "dob": "1976-10-10",
         "pic": {

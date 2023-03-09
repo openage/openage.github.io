@@ -75,7 +75,7 @@ Consider an example to send the login status of Agents
 
 {{supervisor.profile.firstName}} {{supervisor.profile.lastName}}
 
-Greetings from Yatra Freight
+Greetings from Application
 
 {{#with user.profile}}
 

@@ -101,10 +101,10 @@ Campaign
 - sales person dashboard
 - pipeline report for sales head
 - revenue by salesperson
-- Quotas
--   Sales goals
--   Percent contributed to team revenue
--   closed/lost leads
+- Quotas/Targets
+-  Sales goals
+-  Percent contributed to team revenue
+-  closed/lost leads
 - customer support dashboard
 - sysadmin dashboard
 

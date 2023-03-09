@@ -4,13 +4,13 @@
 
 Let's say you want to send a welcome email to another user. It would be something like following
 
-subject: Welcome to Mindful Systems and Solutions
+subject: Welcome to Company
 body (HTML):
 
 ```html
-Dear <b>Sunny Parkash</b>, <br>
+Dear <b>Sharukh Khan</b>, <br>
 <br>
-<p>Welcome to <b>Mindful Systems and Solutions</b></p>
+<p>Welcome to <b>Company</b></p>
 <br>
 <p>We are so excited to have you on board. Other employees are looking forward to helping you find your way in our company and learn more about what we do here.</p>
 <br>
@@ -25,7 +25,7 @@ Your skills will be put to good use as we move on to the next quarter and we can
 Rupali Seth<br>
 HR Manager<br>
 <hr>
-Mindful Systems and Solutions
+Company
 ```
 
 To do this, you can POST the following payload to `{{api-root-url}}/sendIt/api/messages`
@@ -34,16 +34,16 @@ To do this, you can POST the following payload to `{{api-root-url}}/sendIt/api/m
 {
     "to": [{
         "profile": {
-            "firstName": "Sunny",
-            "lastName": "Parkash"
+            "firstName": "Sharukh",
+            "lastName": "Khan"
         },
-        "email": "sunny.parkash@gmail.com"
+        "email": "sharukh.khan@gmail.com"
     }],
-    "subject": "Welcome to Mindful Systems and Solutions",
-    "body": "Dear <b>Sunny Parkash</b>, <br> .........<hr>Mindful Systems and Solutions",
+    "subject": "Welcome to Company",
+    "body": "Dear <b>Sharukh Khan</b>, <br> .........<hr>Company",
     "attachments": [{
         "filename": "New Joiner.pdf",
-        "url": "https://assets.mindfulsas.com/policies/new-joinee.pdf",
+        "url": "https://assets.domain.com/policies/new-joinee.pdf",
         "mimeType": "application/pdf"
     }],
     "options": {
@@ -86,10 +86,10 @@ The same welcome message can be send via following payload
     "data": {
         "user": {
             "profile": {
-                "firstName": "Sunny",
-                "lastName": "Parkash"
+                "firstName": "Sharukh",
+                "lastName": "Khan"
             },
-            "email": "sunny.parkash@gmail.com",
+            "email": "sharukh.khan@gmail.com",
         },
         "employment": {
             "code": "1004",
