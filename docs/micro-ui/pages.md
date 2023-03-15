@@ -77,11 +77,8 @@ https://yofs.invisionapp.com/console/share/M434WVN9P6/814696366
 
 **accounts micro ui**
 www.domain.com/accounts
-
-**pages micro ui**
 www.domain.com
-**www.domain.com/customers**
-
+www.domain.com/customers
 www.domain.com/backoffice
 
 - [ ] Ability to change the layout and theme of the page
