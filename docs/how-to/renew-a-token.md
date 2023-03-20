@@ -1,4 +1,4 @@
-# Renew A ToKEn
+# Renew A Token
 
 A token has a set expiry  time from the time of issue. So the token , after set period, will expire even while the user may be taking the action. This would break the user experience.
 
