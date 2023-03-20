@@ -103,7 +103,7 @@ Report Builder to manage columns, filters, access, styling and download formats*
 - ability to build/view report
 	- [ ] business user's ability to build report from the data catalogue
 		- [ ] Toolbar 
-			- [ ] data catalogue, 
+			- [ ] data catalogue (Customer Catalogue: Name, Status, Job Count, Job Catalogue), 
 			- [ ] data table: catalogue columns (selected catalogue),
 			- [ ] data table: filters
 			- [ ] summary: widgets

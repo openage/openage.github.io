@@ -3,6 +3,9 @@ banner: "![[pages.png]]"
 ---
 
 # Pages
+#directory #system #console #id
+https://id.domain.com
+https://www.domain.com/id
 
 ## Features
     
@@ -76,8 +79,7 @@ https://yofs.invisionapp.com/console/share/M434WVN9P6/814696366
 ## Epics
 
 **accounts micro ui**
-www.domain.com/accounts
-www.domain.com
+www.domain.com/id
 www.domain.com/customers
 www.domain.com/backoffice
 

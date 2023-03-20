@@ -2,7 +2,7 @@
 banner: "![[accounts.png]]"
 ---
 
-# Accounts
+# Identity
 
 
 A micro portal that merges all the identities into a unified id.  It would provide centralised authentication for all the applications, including the one which the customer's may be using.
@@ -23,7 +23,7 @@ It would have following features
 - Multi Device Sessions Management
 - Login/Signup customisation
 
-https://accounts.domain.com
+https://id.domain.com
 
 
 
