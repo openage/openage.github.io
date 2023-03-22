@@ -82,12 +82,14 @@ Object Structure -
 Example: 
 
 ```
-"cache": {
-	"provider": "redis",
-	"host": "127.0.0.1",
-	"port": 6379,
-	"maxmemory": "1gb",
-	"password": "foobared",
-	"maxmemory-policy": "allkeys-lru"
-}
+    "cacheServer": {
+        "config": {
+            "host": "${env:queueServer.host}",
+            "port": "${env:queueServer.port}",
+            "maxmemory": "1gb",
+            "password": "${env:queueServer.password}",
+            "maxmemory-policy": "allkeys-lru"
+        },
+        "type":"@open-age/cache-redis"
+    }
 ```
