@@ -1,0 +1,313 @@
+{
+    "properties": {
+        "class-editor": {
+            "label": "Class",
+            "control": "class-picker"
+        },
+        "color-editor": {
+            "label": "Color",
+            "control": "color-picker"
+        },
+        "style-editor": {
+            "color": {
+                "value": "",
+                "control": "color-editor"
+            },
+            "background-color": {
+                "value": "",
+                "control": "color-editor"
+            }
+        },
+        "group-style": {
+            "class": {
+                "control": "class-editor"
+            },
+            "style": {
+                "control": "style-editor"
+            }
+        },
+        "container-style": {
+            "class": {
+                "control": "class-editor"
+            },
+            "style": {
+                "control": "style-editor"
+            }
+        },
+        "label-style": {
+            "class": {
+                "control": "class-editor"
+            },
+            "style": {
+                "control": "style-editor"
+            }
+        },
+        "layout-style": {
+            "container": {
+                "control": "group-style"
+            },
+            "header": {
+                "control": "group-style"
+            }
+        },
+        "editor-style": {
+            "container": {
+                "control": "group-style"
+            },
+            "header": {
+                "control": "group-style"
+            }
+        },
+        "widget-style": {
+            "container": {
+                "control": "group-style"
+            },
+            "header": {
+                "control": "group-style"
+            }
+        },
+        "input": {
+            "label": {
+                "control": "input"
+            },
+            "style": {
+                "control": "editor-style"
+            },
+            "abc": {
+                "control": "editor-style"
+            }
+        },
+        "div": {
+            "style": {
+                "control": "style-editor"
+            }
+        },
+        "widget": {
+            "class": {
+                "control": "class-editor"
+            },
+            "style": {
+                "control": "style-editor"
+            },
+            "title": {
+                "control": "input"
+            }
+        }
+    },
+    "toolbars": {
+        "widgets": {
+            "code": "widgets",
+            "icon": "widgets",
+            "label": "Widgets",
+            "items": [
+                {
+                    "label": "Html",
+                    "code": "html",
+                    "config": {
+                        "content": {}
+                    }
+                },
+                {
+                    "label": "Injectables",
+                    "code": "injectables",
+                    "config": {
+                        "source": {},
+                        "content": {
+                            "class": "",
+                            "html": "<span data-key=''></span>"
+                        }
+                    }
+                },
+                {
+                    "label": "Login",
+                    "code": "landing-login",
+                    "config": {
+                        "content": {
+                            "title": "Login",
+                            "widget": {
+                                "code": "landing-login",
+                                "config": {}
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "divs": {
+            "code": "layouts",
+            "icon": "layouts",
+            "label": "Layouts",
+            "items": [
+                {
+                    "label": "3 Column",
+                    "icon": "1-1-1",
+                    "code": "1-1-1",
+                    "config": {
+                        "content": {
+                            "class": "flex-row flex-1-1-1",
+                            "widgets": []
+                        }
+                    }
+                },
+                {
+                    "label": "2 Columns",
+                    "code": "1-1",
+                    "config": {
+                        "divs": [
+                            {
+                                "class": "flex-row flex-1-1"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "form-editor": {
+            "code": "form-editor",
+            "icon": "form",
+            "label": "Form Editor",
+            "items": [
+                {
+                    "code": "input",
+                    "icon": "input",
+                    "label": "Input Box",
+                    "config": {
+                        "content": {
+                            "sequence": 1,
+                            "control": "input",
+                            "key": ""
+                        }
+                    }
+                },
+                {
+                    "icon": "power_input",
+                    "sequence": 1,
+                    "control": "textarea",
+                    "key": "",
+                    "code": "textarea",
+                    "label": "Textarea",
+                    "showLabel": true,
+                    "type": "string",
+                    "permissions": [],
+                    "style": {},
+                    "config": {
+                        "class": ""
+                    }
+                },
+                {
+                    "id": "field3",
+                    "icon": "confirmation_number",
+                    "sequence": 1,
+                    "control": "inputNumber",
+                    "key": "",
+                    "code": "number",
+                    "label": "Number",
+                    "showLabel": true,
+                    "type": "number",
+                    "permissions": [],
+                    "style": {},
+                    "config": {
+                        "class": ""
+                    }
+                },
+                {
+                    "id": "field4",
+                    "icon": "tab_unselected",
+                    "sequence": 1,
+                    "control": "selector",
+                    "key": "",
+                    "code": "selector",
+                    "label": "Dropdown",
+                    "showLabel": true,
+                    "options": [
+                        {
+                            "label": "option1"
+                        },
+                        {
+                            "label": "option2"
+                        }
+                    ],
+                    "permissions": [],
+                    "style": {},
+                    "config": {
+                        "class": ""
+                    }
+                },
+                {
+                    "id": "field5",
+                    "icon": "date_range",
+                    "sequence": 1,
+                    "control": "datePicker",
+                    "key": "",
+                    "code": "datepicker",
+                    "label": "Date Picker",
+                    "placeholder": "Date Picker",
+                    "showLabel": true,
+                    "type": "string",
+                    "permissions": [],
+                    "style": {},
+                    "config": {
+                        "class": ""
+                    }
+                },
+                {
+                    "id": "field6",
+                    "icon": "input",
+                    "sequence": 1,
+                    "control": "autocomplete",
+                    "key": "",
+                    "code": "autocomplete",
+                    "label": "Autocomplete",
+                    "config": {
+                        "paramField": "text",
+                        "params": {},
+                        "url": {
+                            "code": "sales",
+                            "addOn": "ports"
+                        }
+                    },
+                    "showLabel": true,
+                    "type": "string",
+                    "permissions": [],
+                    "style": {}
+                },
+                {
+                    "id": "field7",
+                    "icon": "radio_button_checked",
+                    "code": "radiobtn",
+                    "label": "Radiobtn",
+                    "sequence": 1,
+                    "control": "radiobtn",
+                    "options": [
+                        {
+                            "label": "Yes",
+                            "value": "1"
+                        },
+                        {
+                            "label": "No",
+                            "value": "0"
+                        }
+                    ],
+                    "key": "",
+                    "showLabel": true,
+                    "type": "string",
+                    "permissions": [],
+                    "style": {}
+                },
+                {
+                    "id": "field8",
+                    "icon": "group_work",
+                    "sequence": 1,
+                    "control": "object",
+                    "definition": {
+                        "label": "Group",
+                        "style": {},
+                        "fields": []
+                    },
+                    "code": "group",
+                    "label": "Group"
+                }
+            ]
+        }
+    }
+}
