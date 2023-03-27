@@ -1,0 +1,20 @@
+{
+    "code": "feature",
+    "name": "Feature",
+    "title": "",
+    "description": "",
+    "category": "story",
+    "pic": {
+        "url": "",
+        "thumbnail": ""
+    },
+    "user": {
+        "profile": {}
+    },
+    "tags": [
+        "story",
+        "agile",
+        "feature"
+    ],
+    "timeStamp": ""
+}

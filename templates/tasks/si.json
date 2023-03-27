@@ -1,0 +1,46 @@
+{
+    "code": "si",
+    "manifest": {
+        "title": "Shipping Instruction",
+        "summary": "Shipping Instruction",
+        "pic": {
+            "url": "",
+            "thumbnail": ""
+        },
+        "category": "order",
+        "tags": [
+            "kpi",
+            "freight",
+            "order",
+            "exw"
+        ],
+        "rate": {
+            "amount": 100,
+            "currency": "USD"
+        },
+        "banner": [
+            {
+                "image": "url",
+                "title": "lornen ipsum dolor sit am"
+            }
+        ],
+        "description": "Shipping Instruction",
+        "timeStamp": "",
+        "version": "1.0.1",
+        "visibility": 0,
+        "creator": {
+            "user": {
+                "email": "meenu.verma@yatra.com",
+                "profile": {}
+            },
+            "organization": {
+                "code": "yofs"
+            }
+        }
+    },
+    "content": {
+        "name": "Shipping Instruction",
+        "data": {},
+        "definition": {}
+    }
+}

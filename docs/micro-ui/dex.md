@@ -20,7 +20,7 @@ banner: "![[crm.jpg]]"
 	- Notification #phase-1
 ### Action Handler
 - POST at https://127.0.0.1:9090/actions #phase-2
--  cron job to fetch tasks from https://api.domain.com/system/api/tasks?application-code=dex&user-code=abc #phase-1
+-  cron job to fetch tasks from https://api.domain.com/system/api/tasks?application-code=dex&user-code=abc #phase-1 #process-action 
 - task runner (using cli engine) #phase-0
 	- file download against a file on web-app: application_code-dex, handler-file, config {url, folder path} #phase-2
 	- get rates: application_code-dex, handler-scrapper, config- {} #phase-0
@@ -28,10 +28,10 @@ banner: "![[crm.jpg]]"
 ## Epics
 
 ### Auth
-- user is able to login #phase-1
+- user is able to login #phase-2
 	- by creating a session and opening the browser id.domain.con/sessions/xxxx....xxx/activate
 	- keeps checking for session to get activated
-- integrated CLI
+- integrated CLI #phase-0 
 
 ### Hosting
 - user is able to download the application #phase-1 
@@ -40,8 +40,8 @@ banner: "![[crm.jpg]]"
 - 
 
 ### Work Management
-- check-in
-- check-out
+- check-in #phase-1 
+- check-out #phase-1 
 - to-do list
 - set task in progress to start tracking time
 - sync epics as project/folders/index.md - ft/tasks/ft-212/index.md <-has epic details

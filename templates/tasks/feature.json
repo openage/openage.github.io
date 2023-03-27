@@ -1,0 +1,41 @@
+{
+    "code": "feature",
+    "manifest": {
+        "name": "Feature",
+        "title": "",
+        "description": "",
+        "category": "story",
+        "visibility": 2,
+        "pic": {
+            "url": "",
+            "thumbnail": ""
+        },
+        "user": {
+            "profile": {}
+        },
+        "tags": [
+            "story",
+            "agile",
+            "feature"
+        ],
+        "timeStamp": "",
+        "status": "active"
+    },
+    "dependencies": [
+        {
+            "code": "epic",
+            "type": "workflow",
+            "version": "1.0.1"
+        }
+    ],
+    "content": {
+        "workflow": {
+            "code": "epic"
+        },
+        "chidren": [
+            {
+                "type": "requirement"
+            }
+        ]
+    }
+}
