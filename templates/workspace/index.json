@@ -162,7 +162,10 @@
                 }
             ]
         },
-        "form-editor": {
+        "groups": {
+            "items": []
+        },
+        "controls": {
             "code": "form-editor",
             "icon": "form",
             "label": "Form Editor",
@@ -308,6 +311,17 @@
                     "label": "Group"
                 }
             ]
+        },
+        "providers": {
+            "code": "provider",
+            "icon": "provider",
+            "label": "Provider",
+            "items": [
+                {}
+            ]
+        },
+        "actions": {
+            "items": []
         }
     }
 }
