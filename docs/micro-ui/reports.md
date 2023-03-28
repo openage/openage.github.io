@@ -8,11 +8,11 @@ Operator should be able to respond to the dynamic business needs by understandin
 
 The tool would enable the user to
 -   View what data is available in the system
--   Create visual representation of the data
+-   Create a visual representation of the data
 -   Generate and distribute reports
--   Limit the access to data based on his role
+-   Limit access to data based on his role
 
-https://reports.prebuilt.tech
+https://reports.domain.com
 
 
 ## Roles
