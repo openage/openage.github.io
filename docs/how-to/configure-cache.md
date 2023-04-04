@@ -1,44 +1,46 @@
+# How to a cache the response
+
+
 Open-age provides a unified way to verious cache storage provider like redis and memcache.
 
 in order to enable caching 
 
-step 1. 
-Specify which caching provider to be used, by default it is redis and can be changed to memcache
+1. Specify Cache provider: where the data will be cached
+    data will be saved provider, 
+ 
+
+ by default it would be redis 
 cache provider can be specified at tenant or config file level
 
 Ex: At tenant level 
-https://github.com/openage/openage.github.io.gitfor memcache replace "redis" by "memcache"
+https://github.com/openage/openage.github.io.git for memcache replace "redis" by "memcache"
 
 step 2.  
 Specify an object with key "cache" for the api for which cache supposed to be configure  
 object structure is like - 
 
 - to cache response of an GET api
-```
-"cache" : {
-	key: <key with which value will be saved><type: string>
-	ttl: <time in seconds after which key and it's value will get deleted>
-	action: "add"
-	condition: <object to specify condition to cache response of the api>
-}
-```
-
+- 
 example: 
-```
-cache: {
-	"key": 'category_list_${query}', 
-	"ttl": 2000, 
-	action: "add", 
-	condition: {
-		"operator": "AND",
-		"value": [{
-			"key": "query.k",
-			"operator": "==",
-			"value": '9'
-		}]
+
+```JSON
+{
+	"cache" : {
+		"key": "category_list_${query}", // unique id with which value will be saved
+		"ttl": 2000, // seconds after which key and it's value will get deleted
+		"action": "add",
+		// "condition": <object to specify condition to cache response of the api>
+		"condition": {
+			"operator": "AND",
+			"value": [{ "key": "query.k","operator": "==", "value": "9" }]
+		}
 	}
 }
+
 ```
+
+The action would be performed only when the condition is satisfied. 
+
 
 Note - 
 	In case no condition is specified 
