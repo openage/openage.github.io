@@ -3,7 +3,7 @@ banner: "![[accounts.png]]"
 ---
 
 # Identity
-
+#identity #portlet
 
 A micro portal that merges all the identities into a unified id.  It would provide centralised authentication for all the applications, including the one which the customer's may be using.
 
@@ -61,6 +61,7 @@ Examples
 -   Signup Forms
 
 ### Communication 
+- invite email - user should get an email when he is added to the tool
 -   Complete Signup ![[mails-otp.png]]
 -   Signup Completed
 -   Failed Login Attempt
