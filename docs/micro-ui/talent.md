@@ -43,7 +43,8 @@ Job Creation Wizard
 - candidate creates his profile #phase-1
 	- [ ] signup with email (using identity.domain.com #identity #portlet  )
 	- [ ] updates demographics in #recruitment #candidate
-- candidates sees top 5  jobs based on relevance - location, skills
-- hr creates a job using wizard
-- ability to conduct interview
+- candidates sees top 5 jobs based on relevance - location, skills #phase-1
+	- [ ] when candidate searches (in #discovery) based on his profile (preferences) relevant jobs  should show up.
+- hr creates a job using wizard #phase-1
+- ability to conduct interview #phase-2
 

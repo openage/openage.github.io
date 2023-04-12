@@ -16,7 +16,6 @@ Job
 		"type": Ref,
 		"level": Number // begineer, experienced, expert
 	}],
-
 	"experience": {
 		"min": Number,
 		"max": Number
@@ -29,7 +28,6 @@ Job
 	"qualifications": {
 		"min": String
 	},
-
 	"screenings": [{
 		"type": Ref,
 		"status": String,
@@ -38,6 +36,7 @@ Job
 	
 	"organization": Ref,
 	"tenant": Ref,
+	"visibility": Number, // private, internal, public
 	"status": String // draft, active, closed, rework, discarded
 }
 ```
