@@ -1,6 +1,11 @@
 # Recruitment Entities
 #recruitment 
 
+Stories Reference Design - 
+
+(Open new Job position) https://app.actionitems.in/work/projects/at/tasks/at-29
+(Job Listing) - https://app.actionitems.in/work/projects/at/tasks/at-30
+
 Job
 ```JSON
 {
@@ -42,6 +47,12 @@ Job
 ```
 
 Candidate
+
+Public Job listing Page - https://app.actionitems.in/work/projects/at/tasks/at-39
+Job Applicant / Candidate - https://app.actionitems.in/work/projects/at/tasks/at-31
+
+
+
 ```JSON
 {
 	"profile": {
@@ -70,6 +81,9 @@ Candidate
 ```
 
 Application
+
+Job Applicant - https://app.actionitems.in/work/projects/at/tasks/at-31
+
 ```JSON
 {
 	"job": Ref,
@@ -99,6 +113,9 @@ Skills
 ```
 
 Rounds
+
+Interview rounds Design - https://app.actionitems.in/work/projects/at/tasks/at-32
+
 ```JSON
 {
 	"code": String,
