@@ -4,6 +4,8 @@ banner: "![[crm.jpg]]"
 # CRM
 #sales-engine #directory #send-it #billing #insight #console #discovery 
 
+https://crm.prebuilt.tech
+
 Sales team should be able to  manage business relationships by managing their contacts and  delegating the office work to their team members
 
 The tool would enable them to 
@@ -73,6 +75,7 @@ Contact
 - Converted (final)
 - Cold
 - Not-Interested
+- Product/Service
 
 Customer 
 - Draft
