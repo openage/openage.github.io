@@ -1,0 +1,6 @@
+{
+    "code": "identity.login",
+    "url": "https://identity.actionitems.in/landing/login",
+    "parent": "identity",
+    "application": "identity"
+}
