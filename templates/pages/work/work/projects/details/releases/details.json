@@ -1,0 +1,11 @@
+{
+    "code": "work.projects.details.releases.details",
+    "parent": "work.projects.details.releases",
+    "application": "work",
+    "icon": "mat-new_releases",
+    "title": "Details",
+    "url": "/work/releases/:code",
+    "meta": {
+        "ref": "/assets/data/nav/work/releases/details.json"
+    }
+}

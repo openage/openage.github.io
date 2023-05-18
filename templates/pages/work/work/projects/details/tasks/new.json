@@ -1,0 +1,11 @@
+{
+    "code": "work.projects.details.tasks.new",
+    "parent": "work.projects.details.tasks",
+    "application": "work",
+    "icon": "fa-task",
+    "title": "New Task",
+    "url": "/work/projects/:code/tasks/new",
+    "meta": {
+        "ref": "/assets/data/nav/work/tasks/details.json"
+    }
+}

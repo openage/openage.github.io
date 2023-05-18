@@ -1,0 +1,33 @@
+{
+    "code": "auth.signup",
+    "parent": "auth",
+    "application": "identity",
+    "url": "/landing/signup",
+    "meta": {
+        "divs": [
+            {
+                "class": "flex-row centered",
+                "body": {
+                    "html": ""
+                },
+                "widgets": [
+                    {
+                        "class": "middle",
+                        "style": {
+                            "margin-top": "5px"
+                        },
+                        "widget": {
+                            "code": "landing-signup",
+                            "config": {
+                                "type": "employee"
+                            }
+                        },
+                        "title": {
+                            "text": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

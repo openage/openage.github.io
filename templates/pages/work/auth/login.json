@@ -1,0 +1,7 @@
+{
+    "code": "auth.login",
+    "parent": "auth",
+    "application": "work",
+    "url": "https://identity.actionitems.in/landing/login",
+    "view": "hidden"
+}

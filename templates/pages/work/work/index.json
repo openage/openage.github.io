@@ -1,8 +1,8 @@
 {
     "code": "work",
+    "application": "work",
     "icon": "fa-briefcase",
     "title": "Work",
     "url": "/work",
-    "application": "work",
     "meta": {}
 }

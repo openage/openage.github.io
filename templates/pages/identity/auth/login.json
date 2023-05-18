@@ -1,0 +1,38 @@
+{
+    "code": "auth.login",
+    "parent": "auth",
+    "application": "identity",
+    "url": "/landing/login",
+    "title": "Login",
+    "view": "login-btn",
+    "class": "login-btn",
+    "meta": {
+        "divs": [
+            {
+                "class": "flex-row centered flex-1-1-1",
+                "body": {
+                    "html": ""
+                },
+                "widgets": [
+                    {
+                        "class": "middle",
+                        "style": {
+                            "margin-top": "5px"
+                        },
+                        "widget": {
+                            "code": "landing-login",
+                            "config": {
+                                "view": "customer",
+                                "google": {},
+                                "password": {}
+                            }
+                        },
+                        "title": {
+                            "text": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,10 +1,10 @@
 {
     "code": "work.projects",
+    "parent": "work",
+    "application": "work",
     "icon": "fa-project-diagram",
     "title": "Projects",
     "url": "/work/projects",
-    "parent": "work",
-    "application": "work",
     "meta": {
         "params": {
             "view": "grid",

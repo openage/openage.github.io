@@ -1,0 +1,11 @@
+{
+    "code": "work.projects.details.meetings",
+    "parent": "work.projects.details",
+    "application": "work",
+    "icon": "fa-task",
+    "title": "Meeting",
+    "url": "/work/projects/:code/meetings",
+    "meta": {
+        "ref": "/assets/data/nav/work/meetings/index.json"
+    }
+}

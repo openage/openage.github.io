@@ -1,0 +1,9 @@
+{
+    "code": "work.projects.new",
+    "parent": "work.projects",
+    "application": "work",
+    "icon": "fa-project",
+    "title": "New Project",
+    "url": "/work/projects/new",
+    "meta": {}
+}

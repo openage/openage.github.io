@@ -1,0 +1,9 @@
+{
+    "code": "work.projects.details.meetings.standup",
+    "parent": "work.projects.details.meetings",
+    "application": "work",
+    "icon": "fa-task",
+    "title": "Standup",
+    "url": "/work/projects/:code/meetings?type=standup",
+    "meta": {}
+}

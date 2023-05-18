@@ -1,0 +1,32 @@
+{
+    "code": "auth.signup.success",
+    "parent": "auth.signup",
+    "application": "identity",
+    "title": "Signup-Success",
+    "view": "hidden",
+    "url": "/landing/signup/success",
+    "meta": {
+        "divs": [
+            {
+                "class": "flex-row centered",
+                "body": {
+                    "html": ""
+                },
+                "widgets": [
+                    {
+                        "class": "middle",
+                        "style": {
+                            "margin-top": "150px"
+                        },
+                        "widget": {
+                            "code": "landing-signup-success"
+                        },
+                        "title": {
+                            "text": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
