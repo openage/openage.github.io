@@ -1,0 +1,7 @@
+{
+    "code": "auth.signup",
+    "parent": "auth",
+    "application": "pages",
+    "url": "https://identity.actionitems.in/landing/signup",
+    "view": "hidden"
+}
