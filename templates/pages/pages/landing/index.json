@@ -1,0 +1,592 @@
+{
+    "code": "landing",
+    "application": "pages",
+    "title": "Action Items",
+    "class": "home",
+    "url": "/landing",
+    "meta": {
+        "divs": [
+            {
+                "divs": {
+                    "style": {
+                        "height": "74px",
+                        "background": "#ffffff",
+                        "padding": "15px 70px",
+                        "box-shadow": "rgb(46 46 46 / 15%) 0px 6px 6px",
+                        "position": "relative",
+                        "z-index": "1"
+                    },
+                    "class": "controls-row w-100 align-items-center landing-header",
+                    "items": [
+                        {
+                            "body": {
+                                "html": "<a href='/landing/web'><img src='https://app.yatrafreight.com/assets/images/logo.png' style='width:100%'></a>",
+                                "style": {
+                                    "cursor": "pointer",
+                                    "width": "80px",
+                                    "height": "44px"
+                                }
+                            }
+                        },
+                        {
+                            "class": "pl-5",
+                            "widgets": [
+                                {
+                                    "widget": {
+                                        "code": "landing-product-selector"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "class": "spacer"
+                        },
+                        {
+                            "widgets": [
+                                {
+                                    "widget": {
+                                        "code": "landing-header-actions"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "divs": {
+                    "class": "flex-1-3 landing-main",
+                    "style": {
+                        "height": "calc(100vh - 75px)",
+                        "overflow": "auto"
+                    },
+                    "items": [
+                        {
+                            "body": {
+                                "html": "",
+                                "class": "text-center ",
+                                "style": {
+                                    "color": "white"
+                                }
+                            },
+                            "divs": {
+                                "items": [
+                                    {
+                                        "class": "flex-row centered",
+                                        "body": {
+                                            "html": ""
+                                        },
+                                        "style": {
+                                            "widgets": {
+                                                "style": {
+                                                    "width": "90%"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "class": "landing-left-cont",
+                            "style": {
+                                "width": "45%",
+                                "flex-basis": "45%",
+                                "overflow": "auto",
+                                "background": "white",
+                                "margin": "0",
+                                "z-index": "0"
+                            }
+                        },
+                        {
+                            "class": "landing-right-cont",
+                            "style": {
+                                "width": "55%",
+                                "flex-basis": "55%",
+                                "overflow": "auto"
+                            },
+                            "divs": {
+                                "items": [
+                                    {
+                                        "style": {
+                                            "background": "#ffffff"
+                                        },
+                                        "class": "align-items-center justify-content-center d-flex tet-borders flex-column landing-banner-content pt-5 pb-5",
+                                        "body": {
+                                            "html": "<h1>Welcome to Yatra Freight</h1><p>An End-to-End Digital Freight Forwarder Platform</p>",
+                                            "class": "text-center ",
+                                            "style": {
+                                                "color": "#444444"
+                                            }
+                                        },
+                                        "divs": {
+                                            "style": {},
+                                            "class": " d-flex flex-wrap",
+                                            "items": [
+                                                {
+                                                    "class": "banner-card",
+                                                    "divs": {
+                                                        "class": "banner-card-inner d-flex flex-nowrap align-items-center",
+                                                        "items": [
+                                                            {
+                                                                "body": {
+                                                                    "html": "<img src='https://openage.github.io/themes/yatra/v1/icons/main-home/red/transportation-rates.svg'/>"
+                                                                }
+                                                            },
+                                                            {
+                                                                "body": {
+                                                                    "html": "<span>Instant and Transparent Rates"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "class": "banner-card",
+                                                    "divs": {
+                                                        "class": "banner-card-inner d-flex flex-nowrap align-items-center",
+                                                        "items": [
+                                                            {
+                                                                "body": {
+                                                                    "html": "<img src='https://openage.github.io/themes/yatra/v1/icons/main-home/red/container-tracking.svg'/>"
+                                                                }
+                                                            },
+                                                            {
+                                                                "body": {
+                                                                    "html": "<span>Real-time Container Tracking</span>"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "class": "banner-card",
+                                                    "divs": {
+                                                        "class": "banner-card-inner d-flex flex-nowrap align-items-center",
+                                                        "items": [
+                                                            {
+                                                                "body": {
+                                                                    "html": "<img src='https://openage.github.io/themes/yatra/v1/icons/main-home/red/digital-documentation.svg'/>"
+                                                                }
+                                                            },
+                                                            {
+                                                                "body": {
+                                                                    "html": "<span>Digital Documentation</span>"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "class": "banner-card",
+                                                    "divs": {
+                                                        "class": "banner-card-inner d-flex flex-nowrap align-items-center",
+                                                        "items": [
+                                                            {
+                                                                "body": {
+                                                                    "html": "<img src='https://openage.github.io/themes/yatra/v1/icons/main-home/red/personalised-dashboard.svg'/>"
+                                                                }
+                                                            },
+                                                            {
+                                                                "body": {
+                                                                    "html": "<span>Personalized Dashboard</span>"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "class": "banner-card",
+                                                    "divs": {
+                                                        "class": "banner-card-inner d-flex flex-nowrap align-items-center",
+                                                        "items": [
+                                                            {
+                                                                "body": {
+                                                                    "html": "<img src='https://openage.github.io/themes/yatra/v1/icons/main-home/red/support-24x7.svg'/>"
+                                                                }
+                                                            },
+                                                            {
+                                                                "body": {
+                                                                    "html": "<span>Centralized Expert Support 24*7</span>"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "class": "d-flex landing-about px-3",
+                                        "style": {
+                                            "flex-direction": "row",
+                                            "background": "#fff"
+                                        },
+                                        "divs": {
+                                            "class": "d-flex flex-wrap align-items-center py-2",
+                                            "style": {
+                                                "flex-direction": "row",
+                                                "background-color": "#FEF2F3",
+                                                "border-radius": "6px"
+                                            },
+                                            "items": [
+                                                {
+                                                    "class": "  d-flex col-md-7",
+                                                    "body": {
+                                                        "html": "<p>One of India's leading online travel platform now offers freight forwarding platform to customers for a seamless booking experience</p><a href='/landing/web?landingSection=request-quote' class='quote-btn anime anim-dark'><span>GET A QUOTE</span></a>",
+                                                        "style": {
+                                                            "line-height": "28px",
+                                                            "font-size": "16px",
+                                                            "margin": "20px 0 20px"
+                                                        }
+                                                    }
+                                                },
+                                                {
+                                                    "class": "d-flex col-md-5 my-3",
+                                                    "body": {
+                                                        "html": "<img src='https://openage.github.io/themes/yatra/v1/icons/main-home/about-image.svg' style='width:100%;'/>"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "divs": {
+                                            "class": "d-flex flex-column justify-content-center landing-service px-3 py-4",
+                                            "style": {
+                                                "background": "#fff"
+                                            },
+                                            "items": [
+                                                {
+                                                    "class": "  d-flex justify-content-center ",
+                                                    "body": {
+                                                        "class": "  d-flex mt-2 ",
+                                                        "style": {
+                                                            "font-size": "22px",
+                                                            "font-weight": "bold"
+                                                        },
+                                                        "html": "<span>Ocean Freight (Export and Import)</span>"
+                                                    }
+                                                },
+                                                {
+                                                    "class": "  d-flex justify-content-center container",
+                                                    "body": {
+                                                        "style": {
+                                                            "font-size": "13px",
+                                                            "font-weight": "500",
+                                                            "line-height": "24px"
+                                                        },
+                                                        "class": "  d-flex justify-content-center mt-2 text-center",
+                                                        "html": "<p>Connections with ports across the globe and dedicated staff to ensure safe and on-time delivery of your shipment. With our services exporters and importers can easily connect with logistics providers and collaborate with them to efficiently manage their trade internationally.</p>"
+                                                    }
+                                                },
+                                                {
+                                                    "class": "  d-flex justify-content-center my-2",
+                                                    "body": {
+                                                        "class": "  d-flex justify-content-center",
+                                                        "html": "<img src='https://openage.github.io/themes/yatra/v1/icons/main-home/Ocean_Freight.svg' style='width:100%;'/>"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "class": "",
+                                        "style": {
+                                            "background": "#ffffff"
+                                        },
+                                        "divs": {
+                                            "class": "mx-3 py-4 landing-service",
+                                            "style": {
+                                                "flex-direction": "row",
+                                                "background": "#f7f7f7"
+                                            },
+                                            "items": [
+                                                {
+                                                    "class": "text-center",
+                                                    "body": {
+                                                        "class": " mt-2 ",
+                                                        "style": {
+                                                            "font-size": "22px",
+                                                            "font-weight": "bold",
+                                                            "display": "block"
+                                                        },
+                                                        "html": "<span>Air Freight (Export, Import and Domestic) </span>"
+                                                    }
+                                                },
+                                                {
+                                                    "class": " container",
+                                                    "body": {
+                                                        "style": {
+                                                            "font-size": "14px",
+                                                            "font-weight": "500",
+                                                            "line-height": "24px"
+                                                        },
+                                                        "class": " mt-2 mb-4 text-center ",
+                                                        "html": "<span>Most convenient and fastest way or all your international and domestic freight forwarding requirements. </span>"
+                                                    }
+                                                },
+                                                {
+                                                    "divs": {
+                                                        "class": "d-flex flex-wrap align-items-center flex-direction",
+                                                        "items": [
+                                                            {
+                                                                "class": " col-md-6",
+                                                                "body": {
+                                                                    "class": " ",
+                                                                    "html": "<img class='air-img-width' src='https://openage.github.io/themes/yatra/v1/icons/main-home/Air_Freight.svg' style='width:100%;'/>"
+                                                                }
+                                                            },
+                                                            {
+                                                                "class": " col-md-6",
+                                                                "body": {
+                                                                    "class": "textContent",
+                                                                    "style": {
+                                                                        "font-size": "13px",
+                                                                        "font-weight": "500"
+                                                                    },
+                                                                    "html": "<ul class='air-list'> <li>Air freight services are designed to give your product a wider reach around the world at a quicker pace </li><li>Make your product available to places where other means of transportation is limited </li><li>Minimal warehousing requirement leads to Cost Savings </li></ul>"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "class": "p-3",
+                                        "style": {
+                                            "background": "#fff"
+                                        },
+                                        "divs": {
+                                            "class": "py-4 landing-service",
+                                            "style": {
+                                                "flex-direction": "row"
+                                            },
+                                            "items": [
+                                                {
+                                                    "class": "text-center",
+                                                    "body": {
+                                                        "class": " mt-2 ",
+                                                        "style": {
+                                                            "font-size": "22px",
+                                                            "font-weight": "bold",
+                                                            "display": "block"
+                                                        },
+                                                        "html": "<span>Surface Transport (Trucking and Rail) </span>"
+                                                    }
+                                                },
+                                                {
+                                                    "class": " container",
+                                                    "body": {
+                                                        "style": {
+                                                            "font-size": "14px",
+                                                            "font-weight": "500",
+                                                            "line-height": "24px"
+                                                        },
+                                                        "class": " mt-2 mb-4 text-center ",
+                                                        "html": "<span>Our surface transport network is streamlined and a well connected cross-border service. </span>"
+                                                    }
+                                                },
+                                                {
+                                                    "divs": {
+                                                        "class": "d-flex flex-wrap align-items-center flex-direction",
+                                                        "items": [
+                                                            {
+                                                                "class": " col-md-6",
+                                                                "body": {
+                                                                    "class": "textContent",
+                                                                    "style": {
+                                                                        "font-size": "13px",
+                                                                        "font-weight": "500"
+                                                                    },
+                                                                    "html": "<ul class='air-list'> <li> Team of experts with a virtue of local know-how to expedite your cargo, ensure safe &amp; on-time delivery. </li> <li>Increase visibility of products using digital and innovative solutions.</li> <li>Transparency further helps you to track and manage your assets more efficiently.</li> <li>Reach your markets faster with reliable services coupled with direct connections.</li> </ul>"
+                                                                }
+                                                            },
+                                                            {
+                                                                "class": " col-md-6",
+                                                                "body": {
+                                                                    "class": " ",
+                                                                    "html": "<img class='air-img-width' src='https://openage.github.io/themes/yatra/v1/icons/main-home/Surface_Transport.svg' style='width:100%;'/>"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "class": "",
+                                        "style": {
+                                            "background": "#ffffff"
+                                        },
+                                        "divs": {
+                                            "class": "mx-3 py-4 landing-service",
+                                            "style": {
+                                                "flex-direction": "row",
+                                                "background": "#f7f7f7"
+                                            },
+                                            "items": [
+                                                {
+                                                    "class": "text-center",
+                                                    "body": {
+                                                        "class": " mt-2 ",
+                                                        "style": {
+                                                            "font-size": "22px",
+                                                            "font-weight": "bold",
+                                                            "display": "block"
+                                                        },
+                                                        "html": "<span>CHA activities Warehousing </span>"
+                                                    }
+                                                },
+                                                {
+                                                    "class": " container",
+                                                    "body": {
+                                                        "style": {
+                                                            "font-size": "14px",
+                                                            "font-weight": "500",
+                                                            "line-height": "24px"
+                                                        },
+                                                        "class": " mt-2 mb-4 text-center ",
+                                                        "html": "<span>The most cumbersome process is now made easy with our customised offerings. </span>"
+                                                    }
+                                                },
+                                                {
+                                                    "divs": {
+                                                        "class": "d-flex flex-wrap align-items-center flex-direction",
+                                                        "items": [
+                                                            {
+                                                                "class": " col-md-6",
+                                                                "body": {
+                                                                    "class": " ",
+                                                                    "html": "<img class='air-img-width' src='https://openage.github.io/themes/yatra/v1/icons/main-home/CHA_Warehousing.svg' style='width:100%;'/>"
+                                                                }
+                                                            },
+                                                            {
+                                                                "class": " col-md-6",
+                                                                "body": {
+                                                                    "class": "textContent",
+                                                                    "style": {
+                                                                        "font-size": "13px",
+                                                                        "font-weight": "500"
+                                                                    },
+                                                                    "html": "<ul class='air-list'> <li>Assistance for custom clearance and warehousing facilities</li> <li>No restriction on scale &amp; scope of consignment</li> <li>Benefit from our close-knitted global network</li> <li>Custom expertise with the right people, licenses, and permits to assist with clearance for shipments on schedule.</li> </ul>"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "class": "text-center d-flex justify-content-center flex-column",
+                                        "style": {
+                                            "background": "#fff"
+                                        },
+                                        "body": {
+                                            "html": "<p>Certifications</p>",
+                                            "class": "d-flex justify-content-center mt-4 mb-3",
+                                            "style": {
+                                                "font-size": "22px",
+                                                "font-weight": "bold",
+                                                "color": "#272727"
+                                            }
+                                        },
+                                        "divs": {
+                                            "class": " flex-row justify-content-center container landing-certifications mb-5",
+                                            "items": [
+                                                {
+                                                    "body": {
+                                                        "class": "d-flex",
+                                                        "html": "<img src='https://openage.github.io/themes/yatra/v1/icons/main-home/IATA.svg'/>"
+                                                    }
+                                                },
+                                                {
+                                                    "body": {
+                                                        "class": "d-flex",
+                                                        "html": "<img src='https://openage.github.io/themes/yatra/v1/icons/main-home/MTO.svg'/>"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "class": "text-center d-flex justify-content-center flex-column",
+                                        "style": {
+                                            "background": "#fff",
+                                            "margin-top": "1px"
+                                        },
+                                        "body": {
+                                            "html": "<p>Customers</p>",
+                                            "class": "d-flex justify-content-center mt-4",
+                                            "style": {
+                                                "font-size": "22px",
+                                                "font-weight": "bold",
+                                                "color": "#272727"
+                                            }
+                                        },
+                                        "divs": {
+                                            "class": " flex-row justify-content-between align-items-center mb-4 landing-customers",
+                                            "items": [
+                                                {
+                                                    "body": {
+                                                        "class": "d-flex brands",
+                                                        "html": "<img class='w-100' src='https://openage.github.io/themes/yatra/v1/icons/main-home/Neuland.svg'/>"
+                                                    }
+                                                },
+                                                {
+                                                    "body": {
+                                                        "class": "d-flex brands",
+                                                        "html": "<img class='w-100' src='https://openage.github.io/themes/yatra/v1/icons/main-home/shoulder_logo_en.svg'/>"
+                                                    }
+                                                },
+                                                {
+                                                    "body": {
+                                                        "class": "d-flex brands",
+                                                        "html": "<img class='w-100' src='https://openage.github.io/themes/yatra/v1/icons/main-home/Mankind.svg'/>"
+                                                    }
+                                                },
+                                                {
+                                                    "body": {
+                                                        "class": "d-flex brands",
+                                                        "html": "<img class='w-100' src='https://openage.github.io/themes/yatra/v1/icons/main-home/bridgestone-logo.svg'/>"
+                                                    }
+                                                },
+                                                {
+                                                    "body": {
+                                                        "class": "d-flex brands",
+                                                        "html": "<img class='w-100' src='https://openage.github.io/themes/yatra/v1/icons/main-home/Hitachi_logo.svg'/>"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "style": {
+                                            "height": "35px",
+                                            "background": "#ffffff",
+                                            "position": "relative"
+                                        },
+                                        "body": {
+                                            "html": "<p>Copyright © 2023 Yatra Online Private Limited, India.<br> All rights reserved</p>",
+                                            "class": " text-center landing-footer",
+                                            "style": {
+                                                "color": "#919191",
+                                                "font-size": "12px",
+                                                "position": "absolute",
+                                                "bottom": "0",
+                                                "left": "0",
+                                                "right": " 0"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
