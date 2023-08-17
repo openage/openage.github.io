@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 23" width="20" height="23">
+	<title>requests (1)</title>
+	<defs>
+		<image  width="20" height="23" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAMAAAA8w5+RAAAAAXNSR0IB2cksfwAAAKJQTFRFD6GsD6GsD6GsD6GsD6GsAAAAD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6Gs1SwLAgAAADZ0Uk5TWfD/ryUA8bOAdghmPUBlA8PrNS9nP5+bNDN/56Cpj4yDV/P0Fzy/+W4y5tojMATtewnZ9hIiLlH9pAAAAJVJREFUeJyVzGkTwTAUheE4XEpTsdMUpdba1///15Q0ptEw4/34zLmXsQLSiiVKY+WKo6vWNMIl4p6Kv7EuGvoBmi2NbXS6qh7QF+p8AD89k8EQI/FaZlGMEeaWRBNMP5aRlE40mxu4WD5brQ1UBc4/6H7B2MDNj5/WZQ63tvOdb0GiPXjWDsdTgucLjK5xgnTzjO70AAH3ExpFtWOvAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

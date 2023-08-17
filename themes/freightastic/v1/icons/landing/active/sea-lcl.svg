@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" width="17" height="17">
+	<title>sea-lcl</title>
+	<defs>
+		<image  width="17" height="17" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAMAAAAMs7fIAAAAAXNSR0IB2cksfwAAAOpQTFRFAAAAD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsQAl8KgAAAE50Uk5TAEzm/7dqxcDYHkA5Byffqv77n0THSlBhPHfODTbVw44cA4Hsa+oCutNSViL52aiWb6XydPxYytHoofD1yyqgJrFxGZPrNF3eAUuau4wkGOg4+gAAAKdJREFUeJxVjuUWglAQhK+MehEVwcJWVAzsTuyO938dEZGYP7vznTmzS4ghDwMvccnnp6ybBDguGHL4MA8+IohRm8TiiaSUSmdsks3lURCLJQvIZQGVKqCk/qRWBxpNAKoVarXRkYCu2dGjtD/AcITxhJ2mZUJmehpzYIHlSt/WGtngJ8acGtmO4dROL9o7gXL4dh9tcDr/zl2uJqDW17f7gz5f6tswH5mYDnIsgCihAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

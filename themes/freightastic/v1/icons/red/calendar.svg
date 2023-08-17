@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 32" width="29" height="32">
+	<title>calendar-svg</title>
+	<defs>
+		<image  width="29" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAgCAMAAADZqYNOAAAAAXNSR0IB2cksfwAAAGNQTFRFAAAAD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6Gs+HHGKgAAACF0Uk5TAEnrgP8cs+wbIeflHayeKCmhqfIQEfEHCe3vrSYg5rj+dKpcDgAAAHZJREFUeJzt0zcOgDAQRNEBhpxzDvc/JSAo10CDaPjVSk9ykGzgSNM1QJiPDBrifK2mZVPKthzA9UTb8wOEjGJx5SRlhpyFYt+SFUjljTY6VeplvehWvzrzr08112sFNm2HnpEr4rC/51H9F6Zg+0fzItoyO1gBYHcGxa2QhQEAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

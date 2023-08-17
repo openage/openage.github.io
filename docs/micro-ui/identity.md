@@ -128,7 +128,7 @@ Examples
     - [ ] system user on boarding process
 - [ ] sysadmin is able to set identity providers
 - [ ] sysadmin is able to set multi-factor mechanisms available
-- [ ] sysadmin is able to set User attributes (user designer)
+- [ ] sysadmin sets user attributes (user designer)
 - [ ] sysadmin is able to set post Signup actions (signup designer)
 ### Manage Application
 - [ ] sysadmin is able to manage security

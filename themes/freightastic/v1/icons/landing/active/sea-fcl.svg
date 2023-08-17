@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 14" width="18" height="14">
+	<title>sea-fcl</title>
+	<defs>
+		<image  width="18" height="14" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAOCAMAAAAVBLyFAAAAAXNSR0IB2cksfwAAAK5QTFRFAAAAD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsnWvJIgAAADp0Uk5TAO3/+g9AUhqKrZiNf7EBPTSwmXus/P60dHzi6nAHPlyIqgOXqAR6lgl3kxDrzE1mrvsdgVdLv56AqdvrI1UAAACISURBVHicTczpGsEwEIXhcTRqDUprrdqXorYK7v/GaGLSfj/fZ84Q6UoAyg7ZHCGQVREuUxVcjamORlOHVk4uyXaHCF0mD72+j2Aw5Cs5Gttfk2mY0QzFIn02L8hiaZYrK+vN//3W0s7A/uDnw/j4kxNwTgIDlytwu5P3SCU9Y6XUKyVK3p/wC7SfCRaayb88AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

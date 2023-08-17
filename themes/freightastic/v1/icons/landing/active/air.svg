@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 13" width="13" height="13">
+	<title>air (2)</title>
+	<defs>
+		<image  width="13" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAMAAABFNRROAAAAAXNSR0IB2cksfwAAAL1QTFRFD6GsD6GsD6GsAAAAD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6Gs67USWgAAAD90Uk5T1eRAAC6wxA/h//pLCWChL+ljufn8iAoo6+A0W7ENpJ4BDPfuHGmY39gd08gHMPA/5RUssjyiSrN/+w4FfgO2+FIXfwAAAINJREFUeJwlztcSglAMBNDgKriIioq9YBd77+X/P8t7wz5k9swkMxFxMtBkc64nefoFICi6JEtSDulXqjXTo3pD0GxR0+4AAnQVvT5UA4t4CNVobDWZppqZPl8wWapW5Hqz3dkFR/bk4QicrBI5M7rYE/J6C+TOhz7G58vcvT/fVD8z/vulCkf3jou4AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 18" width="23" height="18">
+	<title>bank-svg</title>
+	<defs>
+		<image  width="23" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAASCAMAAACHObUhAAAAAXNSR0IB2cksfwAAAH5QTFRFD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsAAAAD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsOz3kmgAAACp0Uk5TTdr/vzbfxH/bwmYAmubZs81lmeUNgCYMMxpMGWcGQBOxP9XJXfrqOSAUcF7cZAAAAHRJREFUeJydj8EWgiAQRcfByiRSRDQrB7XS+v8flGXHgY13eRfv3AeQIEekcDieONkZMJeci4r7q+Ao74Ps8EWgs/ReB3qqmDe+v7ZNY9ub3fTrDu+AjydudyI+78k56jv63zGghpEzveD9CdyaF5Bf4vzkCpPyEdx570GHAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

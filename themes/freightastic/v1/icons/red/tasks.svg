@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 32" width="30" height="32">
+	<title>tasks</title>
+	<defs>
+		<image  width="26" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAgCAMAAAA7dZg3AAAAAXNSR0IB2cksfwAAAJZQTFRFAAAAD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsfyQMRQAAADJ0Uk5TADSw9/+vM9HN/QoL+hyz7Bsh5+UdrJ4o/PspoanyEMjFEfE5wvg26wcJ7e+tJiDmuP4HvIFdAAAAk0lEQVR4nO2SVxaCMBBFn/LsSgmIFbFgb7D/zZkYkXBgCdyvmdw5L/MxwJdW2+IPq9OFSY8G/ZIacJiXI47zcmI7arQYU51ju4AndEpZkX6AKcMZMPcLJRbAcsU1Im5kG5trbOXDjnvoqENy/C+fnHQszF9MGtWo6HypM9fbHQ+GXtU81R2+BGt5B/Lm06wqstTFB/4RCVGjXoE2AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="2" y="0"/>
+</svg>

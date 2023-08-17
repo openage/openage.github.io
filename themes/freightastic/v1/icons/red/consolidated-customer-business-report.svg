@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>consolidated-customer-business-report-svg</title>
+	<defs>
+		<image  width="100" height="100" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAAXNSR0IB2cksfwAAAUFQTFRFJ6u0D6GsWL7FJqq0V73FKKu1fMzSw+fqWb7GoNre////b8fNJ6q0n9nebsbNodrecMfO5/X3ldXaT7rCMq+4GaWw5fX2zuzuWr7GEKGsxunrhM/UcsjO/v//bMXMYMHI/P7+h9DWtuLmo9vf+Pz9G6aw7fj5itHXd8rQI6mzFqSu+/7+1O7wwObpptzgktTZi9LXdcnPfszSZ8TLlNXarN/i8fn6Rra/xOjqsuHkZsPKS7nB8vr6O7K7Ma646/f49/z8HKexFqSve8vR8Pn6Lq23ueTna8XM9vv8UbvDSLfA6Pb3PLO8NK+5N7G6yurtwufqObK7N7C6mtjcl9bbIKiyIaiyrt/j7vj57Pj4tOLlecvRVLzEOrK7PbO8h9DVt+PmJKmzF6SvQbW9P7S9p93hrd/jseDkR7e/NrC5otvfqEBVXQAAAjhJREFUeJzt2mdTwkAQBmBOYkNURFBREewFe++9Yu+9d///DxDC6CXkouvtBp2T/cAXGR7f3dySyeByMccrx+V2HtFc6iTJTbzm5TtWWuLjC/R2FXocqyK9XVnknyLexGuxc0gJ+zjxjidxK5PkV9pFsRENH5dqV0aQ9HYRI+KZqIMQl2pIRtZKRrawOguSbq38IAkxkk1CkIS4VLvvUufEq3Ob+ivtIjmCvGjWCigJdq2AkmQEST4sKHUO8bHkwwJ1Tnz2vusnpTBCcjrSEbnd9ReTkCFl/vJAMBgo91c4hlRWhT7+FtKq0xGaw1hj/h9qw2aEYneF69KTRqImhOKc1Fv7WUuNNIim1mhE8DNpEj7ub24xIPgkreILsI0UaRcjHTFCpFNsMNbFEfQl3G2H9HAEnaTXDuFDwSfps0MiHEEn6bdDBjiCPieDdkg/R9BJuuyQIY6gZxINio3QMEfwh1ETIyP8HQSrflSMjBkQgi08LjImDG+g+NKanLIa0zNGBJ9ktn7OiswvLFIi+UvimXiX6ZA2MZGslU8EN5PVNXuDsfgwBbK+8ZXB2GbqRg/XLsFlZa6tWTRiu4B59ekIol3b3xuM7eCShHchyF4UhexDDMYOMO2KHcKQoxgiyTHMSH55yX/9TkCRuHy7TqAGY6fSyBkcOZOeyTkcWZBO8uVmNNeF9OAv4ciV/uROu/6mbqzILRzxwn4V5bMid3AkKI3cw5EHfSYyyCMceZJO4nl+gRGvb553AMIwQbziJZ0AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

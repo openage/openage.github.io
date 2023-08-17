@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 13" width="15" height="13">
+	<title>list-view</title>
+	<defs>
+		<image  width="15" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAANCAMAAABBwMRzAAAAAXNSR0IB2cksfwAAAIdQTFRFD6GsD6GsD6GsAAAAD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsiCmBVgAAAC10Uk5TkvtjACSAevr/w1B3wEMNQDgFOwPHqTe/udWgR/UXeBEleyI/KuW6TK5vK60bTQeFrgAAAGRJREFUeJxdzdcSglAQA9BgRFaKShFpShOU8v/f59Pemet5y8wmCzgHHl11gidn+mIgCCNeruoG2hAnqZUzuTN/qAKlVKzNXIPnq7Xu//e6fiBH/ffGJDM/pu/gKwvXUG3gbvV/630IAJvrPMgAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

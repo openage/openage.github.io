@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 17" width="14" height="17">
+	<title>delete</title>
+	<defs>
+		<image  width="14" height="17" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAMAAADaFm2tAAAAAXNSR0IB2cksfwAAAIRQTFRFAAAAD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6Gsp6bX+wAAACx0Uk5TACPVv8R0ez/ThMXKF9R8YMbRFGdMw6wVYmHSzLQYZWYZwLET0G2hgBsPcjkzKuoFAAAAdElEQVR4nH2O2Q6CMBAAB8sloIgV8KR4cvj//ydHbV+M87DpZDbpAjgLIYTrofGDcYbTexkJQ5ywwrJO8Te2ZlvITJQ7Js0pyv1h1iOcOF+qCqWrVmm1lurfsvpdB71yu38/epgznqO+mmAmjdtBu77RvOEDq3sKbOks8ZcAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

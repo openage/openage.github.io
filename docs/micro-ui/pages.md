@@ -3,12 +3,10 @@ banner: "![[pages.png]]"
 ---
 
 # Pages
-#directory #system #console #id
-https://id.domain.com
-https://www.domain.com/id
+#directory #system #console #pages #www
+https://www.domain.com
 
 ## Features
-    
 -   Landing/Offering Pages
 -   Dashboards
 -   Page Sharing via alias 
@@ -38,12 +36,17 @@ https://www.domain.com/id
 
 A page consist of collection of widgets pushed into a layout, and has a url to reach there
 
-- Url : `{{base-url}}/:level1/:level2/:level3` or
-	- `{{base-url}}/:level1` 
-	- `{{base-url}}/:level1/:level2` 
-	-   `{{base-url}}/dashboard`
-	-   `{{base-url}}/invoices`
-	-   `{{base-url}}/invoices/:id`
+- Examples of url
+	-  `{{base-url}}/landing` 
+		- `/:level1` 
+		- `/:level1/:level2` 
+		- `/:level1/:level2/:level3` 
+	-  `{{base-url}}/home` (with role guard)
+		-  `dashboard`
+		-  `/:level1` 
+		- `/:level1/:level2` 
+		- `/:level1/:level2/:level3` 
+
 
 #### Editor
 
@@ -78,17 +81,19 @@ https://yofs.invisionapp.com/console/share/M434WVN9P6/814696366
 
 ## Epics
 
-**accounts micro ui**
-www.domain.com/id
-www.domain.com/customers
-www.domain.com/backoffice
+**pages micro ui**
 
-- [ ] Ability to change the layout and theme of the page
+- Meta driven pages
+	- [ ] ability to select a theme for the portal
+	- [ ] set the master page for whole app based on the theme
+- SEO and Bot Friendly Page
+	- [ ] ⏫ ability to set page SEO meta
+- User Tracking
+- Ability to change the layout and theme of the page
 	- [ ] separate the customer portal as www.domain.com/customers (with customers as base url)
 		- [ ] make the urls dynamic (level 1, level 2 ...)
 		- [ ] set page as internal() and external (root level - www.domain.com/customers )
-	- [ ] ability to select a theme for the portal
-		- [ ] set the master page for whole app based on the theme
+
 	- [ ] ability to modify the layout of the pages
 		- [ ] make the pages meta driven 
 		- [ ] move the existing components (search ) to widgets
@@ -116,4 +121,3 @@ www.domain.com/backoffice
 	- [ ] from url
 	- [ ] from last viewed page (from local storage)
 	- [ ] parse page from the code (regex)
-- [ ] ability to set page SEO meta

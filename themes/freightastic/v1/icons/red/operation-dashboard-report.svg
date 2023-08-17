@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>operation-dashboard-report</title>
+	<defs>
+		<image  width="100" height="100" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAAXNSR0IB2cksfwAAAD9QTFRFD6GsAAAAD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsYOox4QAAABV0Uk5T/wBMTQyo9lh/pRnlGuYtQFPsILOAT2HhnAAAANxJREFUeJztltsSgjAMBVFu3lHx/7/V8Y1pCk06Ia2Zs8/ITtN2sWlAlRx25OhG0rpZCcYlwmQlkECypOsHWcQXDH0XSFbuyZit+DHyVmIi0R2X+9MFSUEJPlp/IzHJim4gS6YeFY6DGy8C46pPUnJP5FmhMUlKcgIZZrEOicm4dIGkPgkqLML9uBJZ2WpIhNy/qes15K/ERGIyLl38XEZIIIEkjcOsnHbkvFV0EIW5fxf6yyt787mSG5Xc1SV+VgJJfRKcLkhwukIeU8iTSl7koektkcz0lSw+BSVfecElmsMkjVgAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
