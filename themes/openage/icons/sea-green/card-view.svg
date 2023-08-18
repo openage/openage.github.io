@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 15" width="17" height="15">
+	<title>card-view</title>
+	<defs>
+		<image  width="17" height="15" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAPCAMAAAA1b9QjAAAAAXNSR0IB2cksfwAAAGBQTFRFD6GsD6GsD6GsAAAAD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsrdEEqAAAACB0Uk5T/zYDAPET3yXNNe9CP/NO51vZ7hTeJMzAv/vE98jyQA0MKf5SAAAAV0lEQVR4nGNgQAOM6AIgESZmZmYWViDBxg4kODgxRDDV4DSHC0MXIRE0ALSdm4eHh5cPSPALAAlBqC4hYSAhIgokxLCKiEtISEhKAQlpGSAhy8gghwbkAbKwBswpqZwqAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>messages</title>
+	<defs>
+		<image  width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAAIdQTFRFAAAAD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6GsD6Gs1Dw11wAAAC10Uk5TAA+d4f/gDdgLh9pFRtyF5DA0Ee+AtgqbwM/3OQzDMw7HQUA30hLU1xUW09UY4c1iSQAAAIhJREFUeJztkkkSgkAQBAssHDcUx3VUQEXB7f/vc1Bu0h0+gLxmHqojGgjCHgWiMAD6RtI1ZoAhR2MITGJOMWMieWDOCKTsUdsu6IK/A8uFHiy5aoL1ZtuC427/DQ5p+9fH2WcG8iPd6fxL0ey0jpercogtNe+DkpXifcDqpngfmLvm8Xi+VP8GT5YL859vYxYAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
