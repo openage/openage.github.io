@@ -1,0 +1,62 @@
+{
+    "code": "get-scheules",
+    "manifest": {
+        "name": "Get Scheules for MMT",
+        "summary": "one liner",
+        "icon": {
+            "url": "",
+            "thumbnail": ""
+        },
+        "banner": [
+            {
+                "image": "url",
+                "title": "lornen ipsum dolor sit am"
+            }
+        ],
+        "description": "full help information",
+        "category": "workspace",
+        "tags": [
+            "jira",
+            "story",
+            "agile",
+            "feature"
+        ],
+        "rate": {
+            "amount": 100,
+            "currency": "USD"
+        },
+        "timeStamp": "",
+        "version": "1.0.1",
+        "visibility": 0,
+        "creator": {
+            "user": {
+                "email": "meenu.verma@organization.com",
+                "profile": {}
+            },
+            "organization": {
+                "code": "yofs"
+            }
+        }
+    },
+    "content": {
+        "code": "get-scheules",
+        "name": "Get Scheules for MMT",
+        "trigger": {
+            "type": "HTTP GET",
+            "config": {}
+        },
+        "source": {
+            "provider": {
+                "code": "mmt"
+            },
+            "transforms": [
+                {
+                    "type": "mapping",
+                    "config": {}
+                }
+            ]
+        },
+        "target": [],
+        "definition": {}
+    }
+}

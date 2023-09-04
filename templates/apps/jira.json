@@ -1,0 +1,53 @@
+{
+    "code": "jira",
+    "manifest": {
+        "title": "Jira",
+        "summary": "Altassian project mangement tool",
+        "icon": {
+            "url": "",
+            "thumbnail": ""
+        },
+        "banner": [
+            {
+                "image": "url",
+                "title": "lornen ipsum dolor sit am"
+            }
+        ],
+        "description": "Sync Gateway tasks with Jira stries ......",
+        "category": "order",
+        "tags": [
+            "jira",
+            "story",
+            "agile",
+            "feature"
+        ],
+        "rate": {
+            "amount": 100,
+            "currency": "USD"
+        },
+        "timeStamp": "",
+        "version": "1.0.1",
+        "visibility": 0,
+        "creator": {
+            "user": {
+                "email": "meenu.verma@organization.com",
+                "profile": {}
+            },
+            "organization": {
+                "code": "yofs"
+            }
+        }
+    },
+    "content": {
+        "name": "Jira",
+        "integration": {
+            "types": [
+                {
+                    "code": "gateway-to-jira",
+                    "name": "Sync with Gateway"
+                }
+            ]
+        },
+        "definition": {}
+    }
+}

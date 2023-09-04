@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "category": "workspace",
+            "code": "jira",
+            "name": "Jira",
+            "summary": "one liner",
+            "description": "full help information",
+            "icon": {
+                "url": "http://icons.applegos.in/workspace/jira.png"
+            },
+            "user": {
+                "profile": {}
+            },
+            "tags": [
+                "jira",
+                "story",
+                "agile",
+                "feature"
+            ],
+            "timeStamp": ""
+        }
+    ]
+}

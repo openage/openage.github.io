@@ -1,0 +1,75 @@
+{
+    "code": "upload-tasks",
+    "manifest": {
+        "name": "Upload tasks",
+        "summary": "one liner",
+        "icon": {
+            "url": "",
+            "thumbnail": ""
+        },
+        "banner": [
+            {
+                "image": "url",
+                "title": "lornen ipsum dolor sit am"
+            }
+        ],
+        "description": "full help information",
+        "category": "workspace",
+        "tags": [
+            "jira",
+            "story",
+            "agile",
+            "feature"
+        ],
+        "rate": {
+            "amount": 100,
+            "currency": "USD"
+        },
+        "timeStamp": "",
+        "version": "1.0.1",
+        "visibility": 0,
+        "creator": {
+            "user": {
+                "email": "meenu.verma@organization.com",
+                "profile": {}
+            },
+            "organization": {
+                "code": "yofs"
+            }
+        }
+    },
+    "content": {
+        "code": "upload-tasks",
+        "name": "Upload Tasks",
+        "trigger": {
+            "type": "upload"
+        },
+        "source": {
+            "provider": {
+                "code": "excel"
+            },
+            "transforms": [
+                {
+                    "type": "mapping",
+                    "config": {
+                        "map": [
+                            {
+                                "from": "name",
+                                "to": "title"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "target": [
+            {
+                "transforms": [],
+                "provider": {
+                    "code": "gateway"
+                }
+            }
+        ],
+        "definition": {}
+    }
+}

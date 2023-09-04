@@ -1,0 +1,103 @@
+{
+    "code": "gateway-to-jira",
+    "manifest": {
+        "name": "Sync Jira stories with Gateway stroies",
+        "summary": "one liner",
+        "icon": {
+            "url": "",
+            "thumbnail": ""
+        },
+        "banner": [
+            {
+                "image": "url",
+                "title": "lornen ipsum dolor sit am"
+            }
+        ],
+        "description": "full help information",
+        "category": "workspace",
+        "tags": [
+            "jira",
+            "story",
+            "agile",
+            "feature"
+        ],
+        "rate": {
+            "amount": 100,
+            "currency": "USD"
+        },
+        "timeStamp": "",
+        "version": "1.0.1",
+        "visibility": 0,
+        "creator": {
+            "user": {
+                "email": "meenu.verma@organization.com",
+                "profile": {}
+            },
+            "organization": {
+                "code": "yofs"
+            }
+        }
+    },
+    "content": {
+        "code": "gateway-to-jira",
+        "name": "Sync Jira stories with Gateway stroies",
+        "trigger": {},
+        "source": {
+            "provider": {
+                "code": "gateway"
+            },
+            "transforms": [
+                {
+                    "type": "mapping",
+                    "config": {
+                        "map": [
+                            {
+                                "from": "name",
+                                "to": "title"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "target": [
+            {
+                "transforms": [
+                    {
+                        "type": "mapping",
+                        "config": {
+                            "map": [
+                                {
+                                    "from": "name",
+                                    "to": "title"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "provider": {
+                    "code": "jira"
+                }
+            },
+            {
+                "transforms": [
+                    {
+                        "type": "mapping",
+                        "config": {
+                            "map": [
+                                {
+                                    "from": "name",
+                                    "to": "subject"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "provider": {
+                    "code": "zendesk"
+                }
+            }
+        ],
+        "definition": {}
+    }
+}
