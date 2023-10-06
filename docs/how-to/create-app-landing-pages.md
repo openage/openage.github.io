@@ -1,4 +1,5 @@
-# Landing Pages
+# Pages
+#pages #navigation 
 
 A `layout.json` file would be define
 
