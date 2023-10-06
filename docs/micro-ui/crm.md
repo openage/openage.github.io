@@ -13,6 +13,31 @@ The tool would enable them to
 - streamline the process of customer engagement 
 - track and improve profitability
 
+CRM that grows with your business 
+- From a simple sales pipeline, you can  customize workflows to your sales process evolve
+- Add Roles and customize the onboarding/offboarding process as the team grows
+- Automate and Integrate as you bring in other tools
+- Market place of plugins
+
+Support
+- pool of best practices and blogs
+- live chat support 
+- support team and partner network to help you through your issues
+
+Reporting Capabilities
+- Live reports and dashboards
+- Sales Pipeline reports -  lead volume, conversion etc
+- Out of box KPI Reports
+- Exposes data catalogs for managers to get to the key data 
+
+
+Features
+ - Lead, deal, contact and pipeline management
+ - calendar 
+ - Data Import
+- Email 
+	- [Email builder] (https://www.pipedrive.com/en/products/email-marketing-software/email-builder) with template
+	- [Email Analytics](https://www.pipedrive.com/en/products/email-marketing-software/email-analytics)
 ## Entities
 
 ### Agency
