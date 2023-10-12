@@ -1,0 +1,31 @@
+{
+    "items": [
+        {
+            "code": "subscription-email",
+            "name": "Subscription Email",
+            "title": "",
+            "description": "",
+            "category": "communication",
+            "type": "flow",
+            "pic": {
+                "url": "",
+                "thumbnail": ""
+            },
+            "user": {
+                "profile": {}
+            },
+            "tags": [
+                "flow",
+                "email",
+                "subscription",
+                "customer"
+            ],
+            "version": "1.0.1",
+            "timeStamp": ""
+        },
+        {
+            "code": "birthday-wishes",
+            "name": "Birthday Wishes"
+        }
+    ]
+}

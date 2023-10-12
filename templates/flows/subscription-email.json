@@ -1,0 +1,72 @@
+{
+    "code": "subscription-email",
+    "manifest": {
+        "code": "subscription-email",
+        "name": "Subscription Email"
+    },
+    "content": {
+        "title": "Send Subscription Emails",
+        "steps": [
+            {
+                "code": "import-contacts",
+                "title": "Upload Contacts",
+                "description": "Import your contacts or use existing contacts",
+                "actions": [
+                    "cancel",
+                    "skip",
+                    "next"
+                ],
+                "handler": "file-import",
+                "config": {
+                    "view": "pop-up"
+                }
+            },
+            {
+                "code": "create-report",
+                "title": "Select Customers",
+                "actions": [
+                    "cancel",
+                    "next"
+                ],
+                "handler": "report-builder",
+                "config": {
+                    "view": "pop-up"
+                }
+            },
+            {
+                "code": "build-message",
+                "title": "Select/Create Email",
+                "actions": [
+                    "cancel",
+                    {
+                        "code": "next",
+                        "title": "Schedule"
+                    },
+                    {
+                        "code": "finish",
+                        "title": "Send"
+                    }
+                ],
+                "handler": "message-builder",
+                "config": {
+                    "view": "pop-up"
+                }
+            },
+            {
+                "code": "create-cron-job",
+                "title": "Schedule",
+                "actions": [
+                    "cancel",
+                    {
+                        "code": "finish",
+                        "title": "Done"
+                    }
+                ],
+                "handler": "job-builder",
+                "config": {
+                    "view": "pop-up"
+                }
+            }
+        ]
+    }
+}
