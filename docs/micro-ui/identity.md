@@ -25,6 +25,10 @@ It would have following features
 
 https://id.domain.com
 
+## Overview
+
+
+
 
 
 ## Features
@@ -35,8 +39,25 @@ Examples
 - Bitbucket
 ![[bitbucket-id-portal.png]]
 
+### Signup
+
+
+
 ### Profile
 
+![[user-profile-self.png]]
+
+### Masters
+
+#### Departments
+![[master-departments.png]]
+
+#### Designations
+
+![[master-designations.png]]
+
+#### Employees
+ ![[master-employees.png]]
 
 ### Designers
 - User Designer

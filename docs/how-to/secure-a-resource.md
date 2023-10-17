@@ -1,5 +1,5 @@
-# Implementing Authorization
-#authentication #authorization #security
+# Implementing AUTHORISATION
+#authentication #authorisation #security
 
 The current user's permission need to be checked on the UI as well as on the backend
 
@@ -17,14 +17,14 @@ The sudo permissions helps pin a resource to a user group or a specific user.
 
 ## Checking on the Angular App
 
-When the user [logs in](session-login.md) the session is saved on the browser side session. One of the fieds in the session is `user.role.permissions` which is a list of permissions available with the current user.
+When the user [logs in](session-login.md) the session is saved on the browser side session. One of the fields in the session is `user.role.permissions` which is a list of permissions available with the current user.
 
-[Role Service](/lib/web/auth/role-service.md) encapsulate authentication and authroization. It has a method called `hasPermission()` which takes the list of permissions and returns `true` if the current user's has it. 
+[Role Service](/lib/web/auth/role-service.md) encapsulate authentication and authorisation. It has a method called `hasPermission()` which takes the list of permissions and returns `true` if the current user's has it. 
 - To check if the user has permission `document.create` you can call `hasPermission('document.create')` or you can call `hasPermission(['document.create'])`
 - It can also check if the user does not have the permission by adding `!` as prefix to the permission you can call `hasPermission('!document.create')`
 
 
-## Checking access control on a .NET Api
+## Checking access control on a .NET API
 
 There are 2 level of security that you can implement - at the API or at the action level.
 
