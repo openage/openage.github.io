@@ -1,7 +1,8 @@
 ---
 banner: "![[infrastructure.png]]"
 ---
-# InfrastructurE
+---
+# Infrastructure
 
 💛
 

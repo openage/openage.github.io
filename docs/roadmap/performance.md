@@ -1,6 +1,9 @@
 ---
 banner: "![[performance.jpg]]"
 ---
+---
+banner: "![[performance.jpg]]"
+---
 # Performance
 
 ## Database Tuning

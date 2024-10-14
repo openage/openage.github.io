@@ -90,6 +90,30 @@ UI actions are rendered using `oa-action`. Here are sample actions
 
 ### Form action
 
+In case of error - the form should be shown in expanded form.
+```JSON
+{
+	"code": "reset",
+	"handler": "form",
+	"title": "Add Missing Data",
+	"view": "object-editor", // (was type)
+	"order": 1, // sequence
+	"permissions": ["operator"],
+	"config": {
+		"collapesed": true,
+		"fields": [{
+		}],
+		"target" : {
+			"type": "http",
+			"url" : ":mo/bookings/${data.code}",
+			"action" : "put",
+		}
+	}
+}
+```
+
+### Vie
+
 In notifications - the form will be shown as collapsed, with button having `title` 
 
 In case of error - the form should be shown in expanded form.
@@ -351,7 +375,7 @@ In case of error - the form should be shown in expanded form.
 ```
 
 
-TODO: unify the data injector
+#todo : unify the data injector
 - Service url injection
 - Parameter (body/query) injection
 - Header Injection

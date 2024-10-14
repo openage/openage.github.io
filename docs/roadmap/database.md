@@ -1,6 +1,9 @@
 ---
 banner: "![[database.jpg]]"
 ---
+---
+banner: "![[database.jpg]]"
+---
 # Database
 
 Status: Performance Strategy

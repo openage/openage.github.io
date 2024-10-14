@@ -70,7 +70,8 @@ Note -
 ### Cache server configuration
 
 Object Structure -
-```
+```JSON
+{
  "cache" : {
 	 "provider": <name of cache provider redis/memcache>
 	 "host": <IP of cache server>
@@ -83,7 +84,8 @@ Object Structure -
 
 Example: 
 
-```
+```JSON
+{
     "cacheServer": {
         "config": {
             "host": "${env:queueServer.host}",
@@ -94,4 +96,5 @@ Example:
         },
         "type":"@open-age/cache-redis"
     }
+}
 ```

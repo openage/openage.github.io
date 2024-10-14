@@ -35,7 +35,7 @@ This report would have the following columns
 Checkout [how to create](/how-to/insight-report.md) a report for more details.
 
 ![[fix-me.jpg]]
-TODO: insert image - console>data>report-types
+#todo: insert image - console>data>report-types
 
 ### Next let's create an email template 
 Create an email template (code: `inactive-team-members`) with the following body
